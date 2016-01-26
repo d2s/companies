@@ -1,5 +1,5 @@
 # Companies
-List of companies in GitHub, together with list of programming languages used in their repositories. Key goal for the existence of this repository is the need to understand better what technologies different companies have used. This list will also help you to find a lot of Open Source projects from companies.
+List of companies using GitHub. Together with a list of programming languages used in their Git repositories. Key goal is to understand better what technologies different companies have used. This list will also help you to find a lot of Open Source projects from companies.
 
 
 ## Contributing
