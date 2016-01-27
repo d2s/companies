@@ -11,7 +11,11 @@ If you notice a notable company in GitHub with something interesting in their pu
 
 Company | Languages
 ------- | -----------
-[Agari Data, Inc.](http://agari.com/) | JavaScript, Python, Ruby, C, Shell
+[18F](https://github.com/18F) | Ruby, CSS, Python, JavaScript, Go, HTML, Shell, CoffeeScript, Nginx, Java, PHP, Lua, OpenSCAD, C#, XSLT, Protocol Buffer, Objective-C
+[Adtile Technologies](https://github.com/adtile) | JavaScript, Clojure, Ruby
+[Agari Data, Inc.](https://github.com/agaridata) | JavaScript, Python, Ruby, C, Shell
+[Amazon Web Services - Labs](https://github.com/awslabs) | Ruby, Python, Java, Objective-C, Shell, JavaScript, C, C++, C#, Scala, HTML, CSS, PHP, Go, PowerShell
+[Amazon Web Services](https://github.com/aws) | Go, Python, PHP, Ruby, JavaScript, Objective-C, Java, C, C#, Shell
 [Apple Inc.](https://github.com/Apple) | C, C++, Swift, HTML, Markdown
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
@@ -31,3 +35,5 @@ Company | Languages
 [Superfeedr](https://github.com/superfeedr) | HTML, JavaScript, CSS, Ruby, Markdown, PHP, Python, C, Scala, Java
 [Twitter, Inc.](https://github.com/Twitter) | Scala, Python, Lua, JavaScript, C, C++, Java, Ruby, PHP, HTML, Shell, Objective-C, R, Modelica, CSS, ApacheConf, JSON, Go
 [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript
+[Upcloud Ltd](https://github.com/UpCloudLtd) | Python
+[Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
