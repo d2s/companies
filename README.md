@@ -17,8 +17,10 @@ Company | Languages
 [Amazon Web Services - Labs](https://github.com/awslabs) | Ruby, Python, Java, Objective-C, Shell, JavaScript, C, C++, C#, Scala, HTML, CSS, PHP, Go, PowerShell
 [Amazon Web Services](https://github.com/aws) | Go, Python, PHP, Ruby, JavaScript, Objective-C, Java, C, C#, Shell
 [Apple Inc.](https://github.com/Apple) | C, C++, Swift, HTML, Markdown
+[Bjango](https://github.com/bjango) | Shell, JavaScript, C++, C#
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
+[Codento Oy](https://github.com/codento) | Python, JavaScript
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift, JavaScript
