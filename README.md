@@ -21,12 +21,14 @@ Company | Languages
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
 [Codento Oy](https://github.com/codento) | Python, JavaScript
+[edX Inc.](https://github.com/edx) | CSS, Python, Java, Makefile, Swift, Ruby, Groovy, JavaScript, HTML, Groff, Shell, Haskell, XML, Markdown
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
 [Facebook](https://github.com/facebook) | Java, JavaScript, Objective-C, Objective-C++, Jupyter Notebook, C, C++, OCaml, Haskell, Lua, Python, Ruby, C#, PHP, Hack, Matlab, CMake, Cuda, D, Processing
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift, JavaScript
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown
 [IBM](https://github.com/IBM) | HTML
+[LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
 [Medium](https://github.com/Medium) | JavaScript, Markdown, Python, PHP, Go, Java, C++, Objective-C, XML
 [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Scala, Markdown, Java, Groovy, PHP, Python, CSS, HTML, GLSL, Objective-C, Ruby, Logos
