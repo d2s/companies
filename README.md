@@ -25,6 +25,8 @@ Company | Languages
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
 [Facebook](https://github.com/facebook) | Java, JavaScript, Objective-C, Objective-C++, Jupyter Notebook, C, C++, OCaml, Haskell, Lua, Python, Ruby, C#, PHP, Hack, Matlab, CMake, Cuda, D, Processing
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
+[Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
+[Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, Matlab, Gosu
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift, JavaScript
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown
 [IBM](https://github.com/IBM) | HTML
