@@ -22,6 +22,7 @@ Company | Languages
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
 [Codento Oy](https://github.com/codento) | Python, JavaScript
 [edX Inc.](https://github.com/edx) | CSS, Python, Java, Makefile, Swift, Ruby, Groovy, JavaScript, HTML, Groff, Shell, Haskell, XML, Markdown
+[Electronic Arts Inc](https://github.com/electronicarts) | C++, Java, Ruby
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
 [Facebook](https://github.com/facebook) | Java, JavaScript, Objective-C, Objective-C++, Jupyter Notebook, C, C++, OCaml, Haskell, Lua, Python, Ruby, C#, PHP, Hack, Matlab, CMake, Cuda, D, Processing
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
