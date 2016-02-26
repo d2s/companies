@@ -44,6 +44,7 @@ Company | Languages
 [Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP
 [Solita Oy](https://github.com/Solita) | JavaScript, Clojure, Ruby, CSS, C#, Java, PowerShell, Groovy, Python, PHP
 [Superfeedr](https://github.com/superfeedr) | HTML, JavaScript, CSS, Ruby, Markdown, PHP, Python, C, Scala, Java
+[Tieto Healthcare & Welfare Oy (Lifecare API Services)](https://github.com/TietoLifecare) | C#
 [Twitter, Inc.](https://github.com/Twitter) | Scala, Python, Lua, JavaScript, C, C++, Java, Ruby, PHP, HTML, Shell, Objective-C, R, Modelica, CSS, ApacheConf, JSON, Go
 [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript
 [Upcloud Ltd](https://github.com/UpCloudLtd) | Python
