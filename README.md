@@ -46,6 +46,7 @@ Company | Languages
 [Superfeedr](https://github.com/superfeedr) | HTML, JavaScript, CSS, Ruby, Markdown, PHP, Python, C, Scala, Java
 [Tieto Healthcare & Welfare Oy (Lifecare API Services)](https://github.com/TietoLifecare) | C#
 [Twitter, Inc.](https://github.com/Twitter) | Scala, Python, Lua, JavaScript, C, C++, Java, Ruby, PHP, HTML, Shell, Objective-C, R, Modelica, CSS, ApacheConf, JSON, Go
+[The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, HTML, CSS, Shell, ActionScript
 [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript
 [Upcloud Ltd](https://github.com/UpCloudLtd) | Python
 [Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
