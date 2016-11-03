@@ -12,7 +12,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 Company | Languages
 ------- | -----------
 [18F](https://github.com/18F) | Ruby, CSS, Python, JavaScript, Go, HTML, Shell, CoffeeScript, Nginx, Java, PHP, Lua, OpenSCAD, C#, XSLT, Protocol Buffer, Objective-C
-[Adtile Technologies](https://github.com/adtile) | JavaScript, Clojure, Ruby
+[Adtile Technologies](https://github.com/adtile) | JavaScript, Clojure, Ruby, HTML
 [Agari Data, Inc.](https://github.com/agaridata) | JavaScript, Python, Ruby, C, Shell
 [Amazon Web Services - Labs](https://github.com/awslabs) | Ruby, Python, Java, Objective-C, Shell, JavaScript, C, C++, C#, Scala, HTML, CSS, PHP, Go, PowerShell
 [Amazon Web Services](https://github.com/aws) | Go, Python, PHP, Ruby, JavaScript, Objective-C, Java, C, C#, Shell
@@ -28,10 +28,10 @@ Company | Languages
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
 [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
 [Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, Matlab, Gosu
-[IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift, JavaScript
-[IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown
-[IBM](https://github.com/IBM) | HTML
-[LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go
+[IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
+[IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
+[IBM](https://github.com/IBM) | JavaScript, C, HTML
+[LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
 [Medium](https://github.com/Medium) | JavaScript, Markdown, Python, PHP, Go, Java, C++, Objective-C, XML
 [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Scala, Markdown, Java, Groovy, PHP, Python, CSS, HTML, GLSL, Objective-C, Ruby, Logos
@@ -42,8 +42,8 @@ Company | Languages
 [PagerDuty](https://github.com/PagerDuty) | Ruby, Go, JavaScript, Java, Scala, Python, Perl, Lua, CSS
 [Palantir Technologies](https://github.com/palantir) | Java, JavaScript, Groovy, TypeScript, Go, Scala, Shell, CoffeeScript, Python, Ruby
 [Reaktor](https://github.com/reaktor) | JavaScript, Ruby, Scala, R, C, Swift, CSS, Clojure, Java
-[SC5 Online Ltd](https://github.com/SC5) | JavaScript, CSS, HTML, CoffeeScript, C++, Shell
-[Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP
+[SC5 Online Ltd](https://github.com/SC5) | JavaScript, CSS, HTML, CoffeeScript, C++, Shell, Java
+[Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript
 [Solita Oy](https://github.com/Solita) | JavaScript, Clojure, Ruby, CSS, C#, Java, PowerShell, Groovy, Python, PHP
 [Superfeedr](https://github.com/superfeedr) | HTML, JavaScript, CSS, Ruby, Markdown, PHP, Python, C, Scala, Java
 [The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, HTML, CSS, Shell, ActionScript
