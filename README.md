@@ -54,4 +54,5 @@ Company | Languages
 [Veikkaus Oy](https://github.com/VeikkausOy) | Scala, Java, Python
 [Wix.com](https://github.com/wix) | JavaScript, Scala, Java, Ruby, Objective-C, TypeScript, Shell, Python, PHP, C, C#, CSS, HTML
 [Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
+[Yleisradio Oy](https://github.com/Yleisradio) | Ruby, JavaScript, Clojure, Puppet, Java, XSLT, Ansible, Shell, HTML, Makefile, PHP
 [Zalando](https://zalando.github.io/) | Python, Java, Scala, Clojure, JavaScript, Shell, Go, C, C++, Swift, Elm, TypeScript, PLpgSQL, Ceylon, HTML, CSS
