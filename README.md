@@ -16,6 +16,7 @@ Company | Languages
 [Agari Data, Inc.](https://github.com/agaridata) | JavaScript, Python, Ruby, C, Shell
 [Amazon Web Services - Labs](https://github.com/awslabs) | Ruby, Python, Java, Objective-C, Shell, JavaScript, C, C++, C#, Scala, HTML, CSS, PHP, Go, PowerShell
 [Amazon Web Services](https://github.com/aws) | Go, Python, PHP, Ruby, JavaScript, Objective-C, Java, C, C#, Shell
+[Ambientia Oy](https://github.com/ambientiaoy) | Java, Ruby, PHP, HTML
 [Apple Inc.](https://github.com/Apple) | C, C++, Swift, HTML, Markdown
 [Bjango](https://github.com/bjango) | Shell, JavaScript, C++, C#
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
