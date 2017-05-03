@@ -18,6 +18,7 @@ Company | Languages
 [Amazon Web Services](https://github.com/aws) | Go, Python, PHP, Ruby, JavaScript, Objective-C, Java, C, C#, Shell
 [Ambientia Oy](https://github.com/ambientiaoy) | Java, Ruby, PHP, HTML
 [Apple Inc.](https://github.com/Apple) | C, C++, Swift, HTML, Markdown
+[Basecamp](https://github.com/basecamp) | Ruby, Shell, Objective-C, Go, CoffeeScript, C, JavaScript
 [Bjango](https://github.com/bjango) | Shell, JavaScript, C++, C#
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
