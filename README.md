@@ -23,6 +23,7 @@ Company | Languages
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
 [Codento Oy](https://github.com/codento) | Python, JavaScript
+[Disney](https://github.com/disney) | Ruby, JavaScript, Python, Go, CoffeeScript
 [edX Inc.](https://github.com/edx) | CSS, Python, Java, Makefile, Swift, Ruby, Groovy, JavaScript, HTML, Groff, Shell, Haskell, XML, Markdown
 [Electronic Arts Inc](https://github.com/electronicarts) | C++, Java, Ruby
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
