@@ -47,6 +47,7 @@ Company | Languages
 [PagerDuty](https://github.com/PagerDuty) | Ruby, Go, JavaScript, Java, Scala, Python, Perl, Lua, CSS
 [Palantir Technologies](https://github.com/palantir) | Java, JavaScript, Groovy, TypeScript, Go, Scala, Shell, CoffeeScript, Python, Ruby
 [Reaktor](https://github.com/reaktor) | JavaScript, Ruby, Scala, R, C, Swift, CSS, Clojure, Java
+[Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
 [SC5 Online Ltd](https://github.com/SC5) | JavaScript, CSS, HTML, CoffeeScript, C++, Shell, Java
 [Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript
