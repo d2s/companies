@@ -46,6 +46,7 @@ Company | Languages
 [Opetushallitus - Finnish National Agency for Education](https://github.com/opetushallitus) | JavaScript, Clojure, Java, Scala, Shell, CSS
 [PagerDuty](https://github.com/PagerDuty) | Ruby, Go, JavaScript, Java, Scala, Python, Perl, Lua, CSS
 [Palantir Technologies](https://github.com/palantir) | Java, JavaScript, Groovy, TypeScript, Go, Scala, Shell, CoffeeScript, Python, Ruby
+[Pixar Animation Studios](https://github.com/PixarAnimationStudios) | Ruby, C++
 [Reaktor](https://github.com/reaktor) | JavaScript, Ruby, Scala, R, C, Swift, CSS, Clojure, Java
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
