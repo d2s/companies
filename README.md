@@ -28,6 +28,7 @@ Company | Languages
 [Electronic Arts Inc](https://github.com/electronicarts) | C++, Java, Ruby
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
 [Facebook](https://github.com/facebook) | Java, JavaScript, Objective-C, Objective-C++, Jupyter Notebook, C, C++, OCaml, Haskell, Lua, Python, Ruby, C#, PHP, Hack, Matlab, CMake, Cuda, D, Processing
+[Finnish Meteorological Institute (FMI Open Development)](https://github.com/fmidev) | C++. Shell, JavaScript, Java, Scheme
 [Futurice](https://github.com/futurice) | JavaScript, Python, Java, Haskell, C#, Scala, Go, Objective-C, Shell, PostScript, Eagle, PureScript, Ansible, C++, Swift, ApacheConf, CoffeeScript, Clojure, Ruby, Ruby, CSS, HTML
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
 [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
