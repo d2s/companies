@@ -36,6 +36,7 @@ Company | Languages
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
 [IBM](https://github.com/IBM) | JavaScript, C, HTML
+[Juniper Networks](https://github.com/Juniper) | Python, Ruby, C, JavaScript, Java
 [LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
 [Medium](https://github.com/Medium) | JavaScript, Markdown, Python, PHP, Go, Java, C++, Objective-C, XML
