@@ -20,6 +20,7 @@ Company | Languages
 [Apple Inc.](https://github.com/Apple) | C, C++, Swift, HTML, Markdown
 [Basecamp](https://github.com/basecamp) | Ruby, Shell, Objective-C, Go, CoffeeScript, C, JavaScript
 [Bjango](https://github.com/bjango) | Shell, JavaScript, C++, C#
+[Bloomberg](https://github.com/bloomberg) | C, C#, C++, CSS, Go, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Nix, Perl, PLpgSQL, Python, Ruby, Scala, Shell, TypeScript
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
 [Codento Oy](https://github.com/codento) | Python, JavaScript
