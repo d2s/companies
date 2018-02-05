@@ -36,7 +36,7 @@ Company | Languages
 [Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, Matlab, Gosu
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
-[IBM](https://github.com/IBM) | JavaScript, C, HTML
+[IBM](https://github.com/IBM) | JavaScript, C, Python, Java, Shell, Jupyter Notebook, HTML, Swift, Makefile, TypeScript, Go, Smarty, Scala, OCaml
 [Juniper Networks](https://github.com/Juniper) | Python, Ruby, C, JavaScript, Java
 [LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
@@ -63,7 +63,7 @@ Company | Languages
 [Twitter, Inc.](https://github.com/Twitter) | Scala, Python, Lua, JavaScript, C, C++, Java, Ruby, PHP, HTML, Shell, Objective-C, R, Modelica, CSS, ApacheConf, JSON, Go
 [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript
 [Unsplash](https://github.com/unsplash) | JavaScript, Ruby, PHP
-[Upcloud Ltd](https://github.com/UpCloudLtd) | Python
+[Upcloud Ltd](https://github.com/UpCloudLtd) | Python, Go, Java, C#, HTML
 [Veikkaus Oy](https://github.com/VeikkausOy) | Scala, Java, Python
 [Wix.com](https://github.com/wix) | JavaScript, Scala, Java, Ruby, Objective-C, TypeScript, Shell, Python, PHP, C, C#, CSS, HTML
 [Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
