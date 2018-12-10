@@ -1,4 +1,5 @@
 # Companies
+
 List of companies using GitHub. Together with a list of programming languages used in their public Git repositories. Key goal is to understand better what technologies different companies have used. This list will also help you to find a lot of Open Source projects from companies.
 
 
@@ -11,7 +12,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 
 Company | Languages
 ------- | -----------
-[18F](https://github.com/18F) | Ruby, CSS, Python, JavaScript, Go, HTML, Shell, CoffeeScript, Nginx, Java, PHP, Lua, OpenSCAD, C#, XSLT, Protocol Buffer, Objective-C
+[18F](https://github.com/18F) | Ruby, CSS, Python, JavaScript, Go, HTML, Shell, CoffeeScript, NGINX, Java, PHP, Lua, OpenSCAD, C#, XSLT, Protocol Buffer, Objective-C
 [Adtile Technologies](https://github.com/adtile) | JavaScript, Clojure, Ruby, HTML
 [Agari Data, Inc.](https://github.com/agaridata) | JavaScript, Python, Ruby, C, Shell
 [Amazon Web Services - Labs](https://github.com/awslabs) | Ruby, Python, Java, Objective-C, Shell, JavaScript, C, C++, C#, Scala, HTML, CSS, PHP, Go, PowerShell
@@ -28,12 +29,12 @@ Company | Languages
 [edX Inc.](https://github.com/edx) | CSS, Python, Java, Makefile, Swift, Ruby, Groovy, JavaScript, HTML, Groff, Shell, Haskell, XML, Markdown
 [Electronic Arts Inc](https://github.com/electronicarts) | C++, Java, Ruby
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
-[Facebook](https://github.com/facebook) | Java, JavaScript, Objective-C, Objective-C++, Jupyter Notebook, C, C++, OCaml, Haskell, Lua, Python, Ruby, C#, PHP, Hack, Matlab, CMake, Cuda, D, Processing
+[Facebook](https://github.com/facebook) | Java, JavaScript, Objective-C, Objective-C++, Jupyter Notebook, C, C++, OCaml, Haskell, Lua, Python, Ruby, C#, PHP, Hack, MATLAB, CMake, Cuda, D, Processing
 [Finnish Meteorological Institute (FMI Open Development)](https://github.com/fmidev) | C++. Shell, JavaScript, Java, Scheme
 [Futurice](https://github.com/futurice) | JavaScript, Python, Java, Haskell, C#, Scala, Go, Objective-C, Shell, PostScript, Eagle, PureScript, Ansible, C++, Swift, ApacheConf, CoffeeScript, Clojure, Ruby, Ruby, CSS, HTML
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
 [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
-[Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, Matlab, Gosu
+[Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
 [IBM](https://github.com/IBM) | JavaScript, C, Python, Java, Shell, Jupyter Notebook, HTML, Swift, Makefile, TypeScript, Go, Smarty, Scala, OCaml
@@ -42,10 +43,12 @@ Company | Languages
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
 [Medium](https://github.com/Medium) | JavaScript, Markdown, Python, PHP, Go, Java, C++, Objective-C, XML
 [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Scala, Markdown, Java, Groovy, PHP, Python, CSS, HTML, GLSL, Objective-C, Ruby, Logos
-[Netflix, Inc.](https://github.com/Netflix) | Java, Go, JavaScript, C, C++, Scala, Groovy, Clojure, Ruby, Python, C#, Nginx, Docker, Shell, HTML
+[Netflix, Inc.](https://github.com/Netflix) | Java, Go, JavaScript, C, C++, Scala, Groovy, Clojure, Ruby, Python, C#, NGINX, Docker, Shell, HTML
 [Nitor Creations Ltd](https://github.com/NitorCreations) | Java, JavaScript, Shell, C, Perl, Clojure, Ruby, Ansible, XML
 [Nokia](https://github.com/Nokia) | Python, C, C++, Java, Go, CoffeeScript, Scala, SaltStack
 [Nordic Venture Family - Code Distillery](https://github.com/CodeDistillery) | JavaScript, CSS, Python, CoffeeScript, Dockerfile, HTML
+[NVIDIA Corporation](https://github.com/NVIDIA) | Python, C, C++, Cuda, Go, Jupyter Notebook, HTML, JavaScript, Makefile, Shell, CMake, Lua, OCaml, Java
+[NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) | C++, Python, C, C#
 [Open Knowledge](https://github.com/okfn) | CSS, HTML, Python, JavaScript, Ruby, Java, CoffeeScript, PHP, Shell, Puppet
 [Opetushallitus - Finnish National Agency for Education](https://github.com/opetushallitus) | JavaScript, Clojure, Java, Scala, Shell, CSS
 [PagerDuty](https://github.com/PagerDuty) | Ruby, Go, JavaScript, Java, Scala, Python, Perl, Lua, CSS
@@ -69,3 +72,4 @@ Company | Languages
 [Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
 [Yleisradio Oy](https://github.com/Yleisradio) | Ruby, JavaScript, Clojure, Puppet, Java, XSLT, Ansible, Shell, HTML, Makefile, PHP
 [Zalando](https://zalando.github.io/) | Python, Java, Scala, Clojure, JavaScript, Shell, Go, C, C++, Swift, Elm, TypeScript, PLpgSQL, Ceylon, HTML, CSS
+
