@@ -10,6 +10,7 @@
         "matlab",
         "modelica",
         "nginx",
-        "o"
+        "o",
+        "roff"
     ]
 }
