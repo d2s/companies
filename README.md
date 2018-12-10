@@ -46,6 +46,7 @@ Company | Languages
 [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Scala, Markdown, Java, Groovy, PHP, Python, CSS, HTML, GLSL, Objective-C, Ruby, Logos
 [Netflix, Inc.](https://github.com/Netflix) | Java, Go, JavaScript, C, C++, Scala, Groovy, Clojure, Ruby, Python, C#, NGINX, Docker, Shell, HTML
 [Nitor Creations Ltd](https://github.com/NitorCreations) | Java, JavaScript, Shell, C, Perl, Clojure, Ruby, Ansible, XML
+[Node.js Foundation](https://github.com/nodejs) | C, C++, CSS, Dockerfile, HTML, Java, JavaScript, NGINX, Python, Shell
 [Nokia](https://github.com/Nokia) | Python, C, C++, Java, Go, CoffeeScript, Scala, SaltStack
 [Nordic Venture Family - Code Distillery](https://github.com/CodeDistillery) | JavaScript, CSS, Python, CoffeeScript, Dockerfile, HTML
 [NVIDIA Corporation](https://github.com/NVIDIA) | Python, C, C++, Cuda, Go, Jupyter Notebook, HTML, JavaScript, Makefile, Shell, CMake, Lua, OCaml, Java
@@ -62,6 +63,11 @@ Company | Languages
 [Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript
 [Solita Oy](https://github.com/Solita) | JavaScript, Clojure, Ruby, CSS, C#, Java, PowerShell, Groovy, Python, PHP
 [Superfeedr](https://github.com/superfeedr) | HTML, JavaScript, CSS, Ruby, Markdown, PHP, Python, C, Scala, Java
+[Telia Norge](https://github.com/TeliaSoneraNorge) | Arduino, C++, CSS, Go, HCL, HTML, Java, JavaScript, Shell
+[Telia OSS](https://github.com/telia-oss) | C#, Dockerfile, Go, HCL, JavaScript, Makefile, Shell
+[Telia Sweden](https://github.com/teliasweden) | Go
+[Telia](https://github.com/telia) | (no public repositories)
+[TeliaSonera](https://github.com/teliasonera) | HTML
 [The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, CSS, HTML, Shell, ActionScript, R, TypeScript, Java, Go, Puppet, PHP, 
 [Tieto Healthcare & Welfare Oy (Lifecare API Services)](https://github.com/TietoLifecare) | C#
 [Twitter, Inc.](https://github.com/Twitter) | Scala, Python, Lua, JavaScript, C, C++, Java, Ruby, PHP, HTML, Shell, Objective-C, R, Modelica, CSS, ApacheConf, JSON, Go
