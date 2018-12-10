@@ -12,20 +12,20 @@ If you notice a notable company in GitHub with something interesting in their pu
 
 Company | Languages
 ------- | -----------
-[18F](https://github.com/18F) | Ruby, CSS, Python, JavaScript, Go, HTML, Shell, CoffeeScript, NGINX, Java, PHP, Lua, OpenSCAD, C#, XSLT, Protocol Buffer, Objective-C
-[Adtile Technologies](https://github.com/adtile) | JavaScript, Clojure, Ruby, HTML
-[Agari Data, Inc.](https://github.com/agaridata) | JavaScript, Python, Ruby, C, Shell
-[Amazon Web Services - Labs](https://github.com/awslabs) | Ruby, Python, Java, Objective-C, Shell, JavaScript, C, C++, C#, Scala, HTML, CSS, PHP, Go, PowerShell
-[Amazon Web Services](https://github.com/aws) | Go, Python, PHP, Ruby, JavaScript, Objective-C, Java, C, C#, Shell
-[Ambientia Oy](https://github.com/ambientiaoy) | Java, Ruby, PHP, HTML
-[Apple Inc.](https://github.com/Apple) | C, C++, Swift, HTML, Markdown
+[18F](https://github.com/18F) | C, C#, CoffeeScript, CSS, Elixir, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Lua, Makefile, NGINX, Objective-C, OpenSCAD, Perl, PHP, PLpgSQL, PowerShell, Protocol Buffer, Python, Ruby, Shell, Swift, TypeScript, XSLT
+[Adtile Technologies](https://github.com/adtile) | Clojure, HTML, JavaScript, Ruby
+[Agari Data, Inc.](https://github.com/agaridata) | C, CoffeeScript, Erlang, Go, HCL, Java, JavaScript, Python, Ruby, Shell
+[Amazon Web Services - Labs](https://github.com/awslabs) | C, C#, C++, CSS, Go, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, NGINX, PHP, PowerShell, Python, Ruby, Rust, Scala, Shell, Swift, TypeScript, XSLT
+[Amazon Web Services](https://github.com/aws) | C, C#, C++, Dockerfile, Go, HTML, Java, JavaScript, Kotlin, PHP, PowerShell, Python, Ruby, Scala, Shell, Swift, TypeScript, VHDL
+[Ambientia Oy](https://github.com/ambientiaoy) | HTML, Java, PHP, Ruby, Shell
+[Apple Inc.](https://github.com/Apple) | C, C++, Dockerfile, HTML, JavaScript, LLVM, Python, Swift, Markdown
 [Basecamp](https://github.com/basecamp) | Ruby, Shell, Objective-C, Go, CoffeeScript, C, JavaScript
 [Bjango](https://github.com/bjango) | Shell, JavaScript, C++, C#
 [Bloomberg](https://github.com/bloomberg) | C, C#, C++, CSS, Go, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Nix, Perl, PLpgSQL, Python, Ruby, Scala, Shell, TypeScript
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
-[Codento Oy](https://github.com/codento) | Python, JavaScript
-[Disney](https://github.com/disney) | Ruby, JavaScript, Python, Go, CoffeeScript
+[Codento Oy](https://github.com/codento) | CSS, JavaScript, Jupyter Notebook, Python, Scala, Vue
+[Disney](https://github.com/disney) | CoffeeScript, Dockerfile, Java, JavaScript, Python, Ruby, Shell
 [edX Inc.](https://github.com/edx) | CSS, Python, Java, Makefile, Swift, Ruby, Groovy, JavaScript, HTML, Groff, Shell, Haskell, XML, Markdown
 [Electronic Arts Inc](https://github.com/electronicarts) | C++, Java, Ruby
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
@@ -37,11 +37,11 @@ Company | Languages
 [Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
-[IBM](https://github.com/IBM) | JavaScript, C, Python, Java, Shell, Jupyter Notebook, HTML, Swift, Makefile, TypeScript, Go, Smarty, Scala, OCaml
-[Juniper Networks](https://github.com/Juniper) | Python, Ruby, C, JavaScript, Java
+[IBM](https://github.com/IBM) | C, C#, C++, COBOL, CoffeeScript, CSS, CSS, Dockerfile, Emacs Lisp, Go, Groovy, HCL, HTML, Java, JavaScript, Julia, Jupyter Notebook, NGINX, OCaml, Perl, PHP, Python, R, Roff, Ruby, Scala, Shell, Smarty, SQL PL, Swift, TypeScript
+[Juniper Networks](https://github.com/Juniper) | C, C++, CSS, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT
 [LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
-[Medium](https://github.com/Medium) | JavaScript, Markdown, Python, PHP, Go, Java, C++, Objective-C, XML
+[Medium](https://github.com/Medium) | C++, Go, Java, JavaScript, Objective-C, Objective-C++, Markdown, PHP, Python, Shell, XML
 [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Scala, Markdown, Java, Groovy, PHP, Python, CSS, HTML, GLSL, Objective-C, Ruby, Logos
 [Netflix, Inc.](https://github.com/Netflix) | Java, Go, JavaScript, C, C++, Scala, Groovy, Clojure, Ruby, Python, C#, NGINX, Docker, Shell, HTML
 [Nitor Creations Ltd](https://github.com/NitorCreations) | Java, JavaScript, Shell, C, Perl, Clojure, Ruby, Ansible, XML
@@ -53,21 +53,21 @@ Company | Languages
 [Opetushallitus - Finnish National Agency for Education](https://github.com/opetushallitus) | JavaScript, Clojure, Java, Scala, Shell, CSS
 [PagerDuty](https://github.com/PagerDuty) | Ruby, Go, JavaScript, Java, Scala, Python, Perl, Lua, CSS
 [Palantir Technologies](https://github.com/palantir) | Java, JavaScript, Groovy, TypeScript, Go, Scala, Shell, CoffeeScript, Python, Ruby
-[Pixar Animation Studios](https://github.com/PixarAnimationStudios) | Ruby, C++
+[Pixar Animation Studios](https://github.com/PixarAnimationStudios) | Ruby, C++, Python
 [Reaktor](https://github.com/reaktor) | JavaScript, Ruby, Scala, R, C, Swift, CSS, Clojure, Java
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
-[SC5 Online Ltd](https://github.com/SC5) | JavaScript, CSS, HTML, CoffeeScript, C++, Shell, Java
+[SC5 Online Ltd](https://github.com/SC5) | JavaScript, Shell, CSS, HTML, Python, CoffeeScript, C++, Java
 [Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript
 [Solita Oy](https://github.com/Solita) | JavaScript, Clojure, Ruby, CSS, C#, Java, PowerShell, Groovy, Python, PHP
 [Superfeedr](https://github.com/superfeedr) | HTML, JavaScript, CSS, Ruby, Markdown, PHP, Python, C, Scala, Java
-[The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, HTML, CSS, Shell, ActionScript
+[The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, CSS, HTML, Shell, ActionScript, R, TypeScript, Java, Go, Puppet, PHP, 
 [Tieto Healthcare & Welfare Oy (Lifecare API Services)](https://github.com/TietoLifecare) | C#
 [Twitter, Inc.](https://github.com/Twitter) | Scala, Python, Lua, JavaScript, C, C++, Java, Ruby, PHP, HTML, Shell, Objective-C, R, Modelica, CSS, ApacheConf, JSON, Go
 [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript
-[Unsplash](https://github.com/unsplash) | JavaScript, Ruby, PHP
+[Unsplash](https://github.com/unsplash) | JavaScript, Ruby, TypeScript, Swift, LookML, PHP
 [Upcloud Ltd](https://github.com/UpCloudLtd) | Python, Go, Java, C#, HTML
-[Veikkaus Oy](https://github.com/VeikkausOy) | Scala, Java, Python
+[Veikkaus Oy](https://github.com/VeikkausOy) & [Veikkaus](https://github.com/Veikkaus) | Scala, Java, Python
 [Wix.com](https://github.com/wix) | JavaScript, Scala, Java, Ruby, Objective-C, TypeScript, Shell, Python, PHP, C, C#, CSS, HTML
 [Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
 [Yleisradio Oy](https://github.com/Yleisradio) | Ruby, JavaScript, Clojure, Puppet, Java, XSLT, Ansible, Shell, HTML, Makefile, PHP
