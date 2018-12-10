@@ -34,12 +34,15 @@ Company | Languages
 [Finnish Meteorological Institute (FMI Open Development)](https://github.com/fmidev) | C++. Shell, JavaScript, Java, Scheme
 [Futurice](https://github.com/futurice) | JavaScript, Python, Java, Haskell, C#, Scala, Go, Objective-C, Shell, PostScript, Eagle, PureScript, Ansible, C++, Swift, ApacheConf, CoffeeScript, Clojure, Ruby, Ruby, CSS, HTML
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
+[Gofore](https://github.com/gofore) | Clojure, CSS, Go, HTML, Java, JavaScript, Perl, Python, QML, Shell, TypeScript
 [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
 [Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu
+[HSL Developer Community](https://github.com/HSLdevcom) | C++, CartoCSS, CoffeeScript, Go, HTML, Java, JavaScript, PLpgSQL, Python, R, Shell, TypeScript
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
 [IBM](https://github.com/IBM) | C, C#, C++, COBOL, CoffeeScript, CSS, CSS, Dockerfile, Emacs Lisp, Go, Groovy, HCL, HTML, Java, JavaScript, Julia, Jupyter Notebook, NGINX, OCaml, Perl, PHP, Python, R, Roff, Ruby, Scala, Shell, Smarty, SQL PL, Swift, TypeScript
 [Juniper Networks](https://github.com/Juniper) | C, C++, CSS, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT
+[Koodiklinikka ry](https://github.com/koodiklinikka) | JavaScript, NGINX, Ruby, Markdown
 [LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
 [Medium](https://github.com/Medium) | C++, Go, Java, JavaScript, Objective-C, Objective-C++, Markdown, PHP, Python, Shell, XML
@@ -56,7 +59,7 @@ Company | Languages
 [PagerDuty](https://github.com/PagerDuty) | Ruby, Go, JavaScript, Java, Scala, Python, Perl, Lua, CSS
 [Palantir Technologies](https://github.com/palantir) | Java, JavaScript, Groovy, TypeScript, Go, Scala, Shell, CoffeeScript, Python, Ruby
 [Pixar Animation Studios](https://github.com/PixarAnimationStudios) | Ruby, C++, Python
-[Reaktor](https://github.com/reaktor) | JavaScript, Ruby, Scala, R, C, Swift, CSS, Clojure, Java
+[Reaktor](https://github.com/reaktor) | C, C++, Clojure, CSS, HCL, HTML, Java, JavaScript, Jupyter Notebook, PureBasic, Python, R, Ruby, Scala, Shell, Swift, TypeScript
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
 [SC5 Online Ltd](https://github.com/SC5) | JavaScript, Shell, CSS, HTML, Python, CoffeeScript, C++, Java
