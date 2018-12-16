@@ -16,6 +16,7 @@ Company | Languages
 [Adobe PhoneGap](https://github.com/phonegap) | C, CSS, HTML, Java, JavaScript, Objective-C, Objective-C++, Ruby
 [Adobe Web Platform](https://github.com/adobe-webplatform) | CSS, HTML, JavaScript
 [Adobe, Inc.](https://github.com/adobe) | ActionScript, C, C++, CSS, Go, HTML, Java, JavaScript, Lua, Objective-C, PHP, Python, Ruby, Scala, Shell, TypeScript
+[AdRoll](https://github.com/AdRoll) | C, C++, D, Elixir, Erlang, Go, Haskell, Java, JavaScript, Python, Shell
 [Adtile Technologies](https://github.com/adtile) | Clojure, HTML, JavaScript, Ruby
 [Agari Data, Inc.](https://github.com/agaridata) | C, CoffeeScript, Erlang, Go, HCL, Java, JavaScript, Python, Ruby, Shell
 [Amazon Web Services - Labs](https://github.com/awslabs) | C, C#, C++, CSS, Go, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, NGINX, PHP, PowerShell, Python, Ruby, Rust, Scala, Shell, Swift, TypeScript, XSLT
@@ -25,6 +26,7 @@ Company | Languages
 [Basecamp](https://github.com/basecamp) | Ruby, Shell, Objective-C, Go, CoffeeScript, C, JavaScript
 [Bjango](https://github.com/bjango) | Shell, JavaScript, C++, C#
 [Bloomberg](https://github.com/bloomberg) | C, C#, C++, CSS, Go, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Nix, Perl, PLpgSQL, Python, Ruby, Scala, Shell, TypeScript
+[Bridgewater Associates, LP](https://github.com/Bridgewater) | JavaScript, Python
 [Bugzilla](https://github.com/bugzilla) | HTML, JavaScript, Perl, Python, Shell
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
