@@ -13,6 +13,8 @@ If you notice a notable company in GitHub with something interesting in their pu
 Company | Languages
 ------- | -----------
 [18F](https://github.com/18F) | C, C#, CoffeeScript, CSS, Elixir, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Lua, Makefile, NGINX, Objective-C, OpenSCAD, Perl, PHP, PLpgSQL, PowerShell, Protocol Buffer, Python, Ruby, Shell, Swift, TypeScript, XSLT
+[6Aika](https://github.com/6aika) | HTML, JavaScript, Jupyter Notebook, PHP, Python
+[99designs](https://github.com/99designs) | Go, Java, JavaScript, PHP, Python, Ruby, Scala, Shell
 [Adobe PhoneGap](https://github.com/phonegap) | C, CSS, HTML, Java, JavaScript, Objective-C, Objective-C++, Ruby
 [Adobe Web Platform](https://github.com/adobe-webplatform) | CSS, HTML, JavaScript
 [Adobe, Inc.](https://github.com/adobe) | ActionScript, C, C++, CSS, Go, HTML, Java, JavaScript, Lua, Objective-C, PHP, Python, Ruby, Scala, Shell, TypeScript
@@ -26,10 +28,13 @@ Company | Languages
 [Basecamp](https://github.com/basecamp) | Ruby, Shell, Objective-C, Go, CoffeeScript, C, JavaScript
 [Bjango](https://github.com/bjango) | Shell, JavaScript, C++, C#
 [Bloomberg](https://github.com/bloomberg) | C, C#, C++, CSS, Go, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Nix, Perl, PLpgSQL, Python, Ruby, Scala, Shell, TypeScript
+[BloomReach Inc.](https://github.com/bloomreach) | CSS, HTML, Java, JavaScript, Python, Scala, TypeScript
 [Bridgewater Associates, LP](https://github.com/Bridgewater) | JavaScript, Python
 [Bugzilla](https://github.com/bugzilla) | HTML, JavaScript, Perl, Python, Shell
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
+[City of Helsinki](https://github.com/City-of-Helsinki) | C#, CartoCSS, CoffeeScript, CSS, HTML, JavaScript, Kotlin, Lua, PHP, Python, Ruby, Shell
+[Code for Europe](https://github.com/codeforeurope) | C, CSS, Elm, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, TypeScript
 [Codento Oy](https://github.com/codento) | CSS, JavaScript, Jupyter Notebook, Python, Scala, Vue
 [Conduit Ventures, Inc.](https://github.com/ConduitVC) | JavaScript, OCaml, TypeScript
 [Disney](https://github.com/disney) | CoffeeScript, Dockerfile, Java, JavaScript, Python, Ruby, Shell
@@ -48,6 +53,8 @@ Company | Languages
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
 [IBM](https://github.com/IBM) | C, C#, C++, COBOL, CoffeeScript, CSS, CSS, Dockerfile, Emacs Lisp, Go, Groovy, HCL, HTML, Java, JavaScript, Julia, Jupyter Notebook, NGINX, OCaml, Perl, PHP, Python, R, Roff, Ruby, Scala, Shell, Smarty, SQL PL, Swift, TypeScript
+[Integrify Ltd](https://github.com/Integrify-Finland) | JavaScript
+[Ionic](https://github.com/ionic-team) | C++, CSS, Go, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, Shell, TypeScript, Vue
 [Juniper Networks](https://github.com/Juniper) | C, C++, CSS, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT
 [Koodiklinikka ry](https://github.com/koodiklinikka) | JavaScript, NGINX, Ruby, Markdown
 [LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
@@ -86,6 +93,8 @@ Company | Languages
 [Nitor Creations Ltd](https://github.com/NitorCreations) | Java, JavaScript, Shell, C, Perl, Clojure, Ruby, Ansible, XML
 [Node.js Foundation](https://github.com/nodejs) | C, C++, CSS, Dockerfile, HTML, Java, JavaScript, NGINX, Python, Shell
 [Nokia](https://github.com/Nokia) | Python, C, C++, Java, Go, CoffeeScript, Scala, SaltStack
+[Nordcloud - SC5](https://github.com/SC5) | C++, CoffeeScript, CSS, HTML, Java, JavaScript, Python, Shell
+[Nordcloud](https://github.com/nordcloud) | Go, HTML, JavaScript, Python
 [Nordic Venture Family - Code Distillery](https://github.com/CodeDistillery) | JavaScript, CSS, Python, CoffeeScript, Dockerfile, HTML
 [NVIDIA Corporation](https://github.com/NVIDIA) | Python, C, C++, Cuda, Go, Jupyter Notebook, HTML, JavaScript, Makefile, Shell, CMake, Lua, OCaml, Java
 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) | C++, Python, C, C#
@@ -98,7 +107,6 @@ Company | Languages
 [Reaktor](https://github.com/reaktor) | C, C++, Clojure, CSS, HCL, HTML, Java, JavaScript, Jupyter Notebook, PureBasic, Python, R, Ruby, Scala, Shell, Swift, TypeScript
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
-[SC5 Online Ltd](https://github.com/SC5) | JavaScript, Shell, CSS, HTML, Python, CoffeeScript, C++, Java
 [SinnerSchrader Deutschland GmbH](https://github.com/sinnerschrader) | C++, CSS, Go, HTML, Java, JavaScript, Kotlin, OCaml, Python, Ruby, Scheme, TypeScript
 [Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript
 [Solita Oy](https://github.com/Solita) | JavaScript, Clojure, Ruby, CSS, C#, Java, PowerShell, Groovy, Python, PHP
@@ -108,13 +116,14 @@ Company | Languages
 [Telia Sweden](https://github.com/teliasweden) | Go
 [Telia](https://github.com/telia) | (no public repositories)
 [TeliaSonera](https://github.com/teliasonera) | HTML
-[The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, CSS, HTML, Shell, ActionScript, R, TypeScript, Java, Go, Puppet, PHP, 
+[The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, CSS, HTML, Shell, ActionScript, R, TypeScript, Java, Go, Puppet, PHP
 [Tieto Healthcare & Welfare Oy (Lifecare API Services)](https://github.com/TietoLifecare) | C#
 [Twitter, Inc.](https://github.com/Twitter) | Scala, Python, Lua, JavaScript, C, C++, Java, Ruby, PHP, HTML, Shell, Objective-C, R, Modelica, CSS, ApacheConf, JSON, Go
 [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript
 [Unsplash](https://github.com/unsplash) | JavaScript, Ruby, TypeScript, Swift, LookML, PHP
 [Upcloud Ltd](https://github.com/UpCloudLtd) | Python, Go, Java, C#, HTML
 [Veikkaus Oy](https://github.com/VeikkausOy) & [Veikkaus](https://github.com/Veikkaus) | Scala, Java, Python
+[Vincit](https://github.com/Vincit) | C, C++. CargoCSS, Clojure, CSS, Dockerfile, HTML, Java, JavaScript, Makefile, Objective-C, PHP, Python, Shell
 [Wix.com](https://github.com/wix) | JavaScript, Scala, Java, Ruby, Objective-C, TypeScript, Shell, Python, PHP, C, C#, CSS, HTML
 [World Wide Web Consortium](https://github.com/w3c) | C, C++, CSS, HTML, Java, JavaScript, Makefile, Perl, PHP, PostScript, Python, Ruby, Scala, Shell, XSLT
 [Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
