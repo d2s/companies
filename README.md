@@ -60,6 +60,8 @@ Company | Languages
 [LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
 [Medium](https://github.com/Medium) | C++, Go, Java, JavaScript, Objective-C, Objective-C++, Markdown, PHP, Python, Shell, XML
+[Meltwater](https://github.com/meltwater) | C, C++, CoffeeScript, CSS, Dockerfile, Elixir, Erlang, Go, HCL, HTML, Java, JavaScript, Kotlin, Lua, Makefile, PHP, Puppet, Python, Ruby, Shell, Smarty
+[Microsoft - Office Developer](https://github.com/OfficeDev) | ASP, Batchfile, C#, CSS, HTML, Java, JavaScript, Objective-C, PHP, PowerShell, Python, Ruby, Swift, TypeScript, Visual Basic
 [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Scala, Markdown, Java, Groovy, PHP, Python, CSS, HTML, GLSL, Objective-C, Ruby, Logos
 [Mozilla - MDN Web Docs](https://github.com/mdn) | CSS, HTML, JavaScript, PHP, Python, Shell, Smarty, WebAssembly
 [Mozilla Appmaker](https://github.com/mozilla-appmaker) | CoffeeScript, CSS, HTML, JavaScript, Python
@@ -129,4 +131,3 @@ Company | Languages
 [Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
 [Yleisradio Oy](https://github.com/Yleisradio) | Ruby, JavaScript, Clojure, Puppet, Java, XSLT, Ansible, Shell, HTML, Makefile, PHP
 [Zalando](https://zalando.github.io/) | Python, Java, Scala, Clojure, JavaScript, Shell, Go, C, C++, Swift, Elm, TypeScript, PLpgSQL, Ceylon, HTML, CSS
-
