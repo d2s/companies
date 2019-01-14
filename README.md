@@ -56,6 +56,7 @@ Company | Languages
 [Integrify Ltd](https://github.com/Integrify-Finland) | JavaScript
 [Ionic](https://github.com/ionic-team) | C++, CSS, Go, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, Shell, TypeScript, Vue
 [Juniper Networks](https://github.com/Juniper) | C, C++, CSS, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT
+[Known, Inc.](https://github.com/idno) | HTML, JavaScript, PHP, Shell
 [Koodiklinikka ry](https://github.com/koodiklinikka) | JavaScript, NGINX, Ruby, Markdown
 [LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
@@ -110,6 +111,7 @@ Company | Languages
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
 [SinnerSchrader Deutschland GmbH](https://github.com/sinnerschrader) | C++, CSS, Go, HTML, Java, JavaScript, Kotlin, OCaml, Python, Ruby, Scheme, TypeScript
+[Sky UK Ltd](https://github.com/sky-uk) | ApacheConf, BrightScript, C, C#, CSS, Dockerfile, Go, HTML, Java, JavaScript, Makefile, Objective-C, Objective-C++, Perl, PHP, Python, Ruby, Scala, Shell, Swift, TypeScript, Vim script
 [Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript
 [Solita Oy](https://github.com/Solita) | JavaScript, Clojure, Ruby, CSS, C#, Java, PowerShell, Groovy, Python, PHP
 [Superfeedr](https://github.com/superfeedr) | HTML, JavaScript, CSS, Ruby, Markdown, PHP, Python, C, Scala, Java
