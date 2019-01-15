@@ -31,6 +31,7 @@ Company | Languages
 [BloomReach Inc.](https://github.com/bloomreach) | CSS, HTML, Java, JavaScript, Python, Scala, TypeScript
 [Bridgewater Associates, LP](https://github.com/Bridgewater) | JavaScript, Python
 [Bugzilla](https://github.com/bugzilla) | HTML, JavaScript, Perl, Python, Shell
+[Bustle Digital Group](https://github.com/bustle) | JavaScript, PHP, Ruby, TypeScript
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
 [City of Helsinki](https://github.com/City-of-Helsinki) | C#, CartoCSS, CoffeeScript, CSS, HTML, JavaScript, Kotlin, Lua, PHP, Python, Ruby, Shell
@@ -44,12 +45,14 @@ Company | Languages
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
 [Facebook](https://github.com/facebook) | C, C++, Cuda, D, Go, Hack, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Lua, Objective-C, Objective-C++, OCaml, PHP, Processing, Python, Ruby, Shell, Swift, TypeScript
 [Finnish Meteorological Institute (FMI Open Development)](https://github.com/fmidev) | C++. Shell, JavaScript, Java, Scheme
+[Fire Financial Services Limited](https://github.com/firefinancialservices) | Java, JavaScript, PHP, Python
 [Futurice](https://github.com/futurice) | JavaScript, Python, Java, Haskell, C#, Scala, Go, Objective-C, Shell, PostScript, Eagle, PureScript, Ansible, C++, Swift, ApacheConf, CoffeeScript, Clojure, Ruby, Ruby, CSS, HTML
+[Ghost Foundation](https://github.com/TryGhost) | CoffeeScript, CSS, HTML, Java, JavaScript, PHP, Puppet, Ruby, SaltStack
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
 [Gofore](https://github.com/gofore) | Clojure, CSS, Go, HTML, Java, JavaScript, Perl, Python, QML, Shell, TypeScript
 [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
-[Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu
 [Google Samples](https://github.com/googlesamples) | C#, C++, Go, HTML, Java, JavaScript, Kotlin, Objective-C, PHP, Python, TypeScript
+[Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu
 [HSL Developer Community](https://github.com/HSLdevcom) | C++, CartoCSS, CoffeeScript, Go, HTML, Java, JavaScript, PLpgSQL, Python, R, Shell, TypeScript
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
@@ -108,6 +111,7 @@ Company | Languages
 [PagerDuty](https://github.com/PagerDuty) | Ruby, Go, JavaScript, Java, Scala, Python, Perl, Lua, CSS
 [Palantir Technologies](https://github.com/palantir) | Java, JavaScript, Groovy, TypeScript, Go, Scala, Shell, CoffeeScript, Python, Ruby
 [Pixar Animation Studios](https://github.com/PixarAnimationStudios) | Ruby, C++, Python
+[Prisma](https://github.com/prisma) | CSS, Go, Java, JavaScript, Python, Ruby, Scala, TypeScript
 [Reaktor](https://github.com/reaktor) | C, C++, Clojure, CSS, HCL, HTML, Java, JavaScript, Jupyter Notebook, PureBasic, Python, R, Ruby, Scala, Shell, Swift, TypeScript
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
