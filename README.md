@@ -49,6 +49,7 @@ Company | Languages
 [Gofore](https://github.com/gofore) | Clojure, CSS, Go, HTML, Java, JavaScript, Perl, Python, QML, Shell, TypeScript
 [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
 [Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu
+[Google Samples](https://github.com/googlesamples) | C#, C++, Go, HTML, Java, JavaScript, Kotlin, Objective-C, PHP, Python, TypeScript
 [HSL Developer Community](https://github.com/HSLdevcom) | C++, CartoCSS, CoffeeScript, Go, HTML, Java, JavaScript, PLpgSQL, Python, R, Shell, TypeScript
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
