@@ -114,6 +114,7 @@ Company | Languages
 [Prisma](https://github.com/prisma) | CSS, Go, Java, JavaScript, Python, Ruby, Scala, TypeScript
 [Reaktor](https://github.com/reaktor) | C, C++, Clojure, CSS, HCL, HTML, Java, JavaScript, Jupyter Notebook, PureBasic, Python, R, Ruby, Scala, Shell, Swift, TypeScript
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
+[Ruuvi Innovations Oy](https://github.com/ruuvi) | C, Clojure, CSS, HTML, Java, JavaScript, KiCad Layout, Python, Swift
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
 [SinnerSchrader Deutschland GmbH](https://github.com/sinnerschrader) | C++, CSS, Go, HTML, Java, JavaScript, Kotlin, OCaml, Python, Ruby, Scheme, TypeScript
 [Sky UK Ltd](https://github.com/sky-uk) | ApacheConf, BrightScript, C, C#, CSS, Dockerfile, Go, HTML, Java, JavaScript, Makefile, Objective-C, Objective-C++, Perl, PHP, Python, Ruby, Scala, Shell, Swift, TypeScript, Vim script
