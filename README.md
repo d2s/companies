@@ -43,6 +43,8 @@ Company | Languages
 [Electronic Arts Inc](https://github.com/electronicarts) | C++, Java, Ruby
 [Elisa Oyj](https://github.com/elisaoyj) | Go, Python
 [F-Secure Corporation](https://github.com/F-Secure) | Python, JavaScript, Java, Objective-C, C++, C#
+[Facebook - Instagram](https://github.com/instagram) | C, C++, Java, JavaScript, Objective-C, Python, Ruby, Shell
+[Facebook - WhatsApp](https://github.com/whatsapp) | C, C++, Erlang, Objective-C, Python
 [Facebook](https://github.com/facebook) | C, C++, Cuda, D, Go, Hack, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Lua, Objective-C, Objective-C++, OCaml, PHP, Processing, Python, Ruby, Shell, Swift, TypeScript
 [Finnish Meteorological Institute (FMI Open Development)](https://github.com/fmidev) | C++. Shell, JavaScript, Java, Scheme
 [Fire Financial Services Limited](https://github.com/firefinancialservices) | Java, JavaScript, PHP, Python
