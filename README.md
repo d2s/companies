@@ -35,6 +35,8 @@ Company | Languages
 [Change.org, Inc.](https://github.com/change) | JavaScript, PHP, Python, Ruby, C, C++
 [Chef Software, Inc.](https://github.com/Chef) | Ruby, HTML, JavaScript, Erlang, Shell, Rust, Markdown, C, C++, C#, PLpgSQL, PHP, Makefile, Python
 [City of Helsinki](https://github.com/City-of-Helsinki) | C#, CartoCSS, CoffeeScript, CSS, HTML, JavaScript, Kotlin, Lua, PHP, Python, Ruby, Shell
+[Cloudflare Design](https://github.com/cloudflare-design) | JavaScript
+[Cloudflare](https://github.com/cloudflare) | C, C#, C++, CSS, Go, HTML, Java, JavaScript, Lua, Makefile, Perl, PHP, Protocol Buffer, Python, Ruby, Rust, Shell
 [Code for Europe](https://github.com/codeforeurope) | C, CSS, Elm, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, TypeScript
 [Codento Oy](https://github.com/codento) | CSS, JavaScript, Jupyter Notebook, Python, Scala, Vue
 [Conduit Ventures, Inc.](https://github.com/ConduitVC) | JavaScript, OCaml, TypeScript
