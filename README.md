@@ -54,6 +54,7 @@ Company | Languages
 [Ghost Foundation](https://github.com/TryGhost) | CoffeeScript, CSS, HTML, Java, JavaScript, PHP, Puppet, Ruby, SaltStack
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
 [Gofore](https://github.com/gofore) | Clojure, CSS, Go, HTML, Java, JavaScript, Perl, Python, QML, Shell, TypeScript
+[Google Analytics](https://github.com/googleanalytics) | C#, HTML, Java, JavaScript, Objective-C, Python
 [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
 [Google Samples](https://github.com/googlesamples) | C#, C++, Go, HTML, Java, JavaScript, Kotlin, Objective-C, PHP, Python, TypeScript
 [Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu
