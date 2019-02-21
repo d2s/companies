@@ -53,6 +53,7 @@ Company | Languages
 [Futurice](https://github.com/futurice) | JavaScript, Python, Java, Haskell, C#, Scala, Go, Objective-C, Shell, PostScript, Eagle, PureScript, Ansible, C++, Swift, ApacheConf, CoffeeScript, Clojure, Ruby, Ruby, CSS, HTML
 [Ghost Foundation](https://github.com/TryGhost) | CoffeeScript, CSS, HTML, Java, JavaScript, PHP, Puppet, Ruby, SaltStack
 [GitHub, Inc.](https://github.com/github) | Ruby, Markdown, HTML, CSS, Go, Shell, CoffeeScript, C#, C, C++, Objective-C, Java, PowerShell, Puppet, Go, Clojure, Swift
+[Gofore - Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript
 [Gofore](https://github.com/gofore) | Clojure, CSS, Go, HTML, Java, JavaScript, Perl, Python, QML, Shell, TypeScript
 [Google Analytics](https://github.com/googleanalytics) | C#, HTML, Java, JavaScript, Objective-C, Python
 [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML
@@ -72,6 +73,7 @@ Company | Languages
 [Medium](https://github.com/Medium) | C++, Go, Java, JavaScript, Objective-C, Objective-C++, Markdown, PHP, Python, Shell, XML
 [Meltwater](https://github.com/meltwater) | C, C++, CoffeeScript, CSS, Dockerfile, Elixir, Erlang, Go, HCL, HTML, Java, JavaScript, Kotlin, Lua, Makefile, PHP, Puppet, Python, Ruby, Shell, Smarty
 [Microsoft - Office Developer](https://github.com/OfficeDev) | ASP, Batchfile, C#, CSS, HTML, Java, JavaScript, Objective-C, PHP, PowerShell, Python, Ruby, Swift, TypeScript, Visual Basic
+[Microsoft - Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
 [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Scala, Markdown, Java, Groovy, PHP, Python, CSS, HTML, GLSL, Objective-C, Ruby, Logos
 [Mozilla - MDN Web Docs](https://github.com/mdn) | CSS, HTML, JavaScript, PHP, Python, Shell, Smarty, WebAssembly
 [Mozilla Appmaker](https://github.com/mozilla-appmaker) | CoffeeScript, CSS, HTML, JavaScript, Python
@@ -123,7 +125,6 @@ Company | Languages
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
 [SinnerSchrader Deutschland GmbH](https://github.com/sinnerschrader) | C++, CSS, Go, HTML, Java, JavaScript, Kotlin, OCaml, Python, Ruby, Scheme, TypeScript
 [Sky UK Ltd](https://github.com/sky-uk) | ApacheConf, BrightScript, C, C#, CSS, Dockerfile, Go, HTML, Java, JavaScript, Makefile, Objective-C, Objective-C++, Perl, PHP, Python, Ruby, Scala, Shell, Swift, TypeScript, Vim script
-[Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript
 [Solita Oy](https://github.com/Solita) | JavaScript, Clojure, Ruby, CSS, C#, Java, PowerShell, Groovy, Python, PHP
 [Superfeedr](https://github.com/superfeedr) | HTML, JavaScript, CSS, Ruby, Markdown, PHP, Python, C, Scala, Java
 [Telia Norge](https://github.com/TeliaSoneraNorge) | Arduino, C++, CSS, Go, HCL, HTML, Java, JavaScript, Shell
@@ -141,6 +142,5 @@ Company | Languages
 [Vincit](https://github.com/Vincit) | C, C++. CargoCSS, Clojure, CSS, Dockerfile, HTML, Java, JavaScript, Makefile, Objective-C, PHP, Python, Shell
 [Wix.com](https://github.com/wix) | JavaScript, Scala, Java, Ruby, Objective-C, TypeScript, Shell, Python, PHP, C, C#, CSS, HTML
 [World Wide Web Consortium](https://github.com/w3c) | C, C++, CSS, HTML, Java, JavaScript, Makefile, Perl, PHP, PostScript, Python, Ruby, Scala, Shell, XSLT
-[Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML
 [Yleisradio Oy](https://github.com/Yleisradio) | Ruby, JavaScript, Clojure, Puppet, Java, XSLT, Ansible, Shell, HTML, Makefile, PHP
 [Zalando](https://zalando.github.io/) | Python, Java, Scala, Clojure, JavaScript, Shell, Go, C, C++, Swift, Elm, TypeScript, PLpgSQL, Ceylon, HTML, CSS
