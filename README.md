@@ -63,6 +63,7 @@ Company | Languages
 [IBM Design](https://github.com/IBM-Design) | JavaScript, CSS, Swift
 [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java
 [IBM](https://github.com/IBM) | C, C#, C++, COBOL, CoffeeScript, CSS, CSS, Dockerfile, Emacs Lisp, Go, Groovy, HCL, HTML, Java, JavaScript, Julia, Jupyter Notebook, NGINX, OCaml, Perl, PHP, Python, R, Roff, Ruby, Scala, Shell, Smarty, SQL PL, Swift, TypeScript
+[Idean](https://github.com/ideanux) | JavaScript, Objective-C
 [Integrify Ltd](https://github.com/Integrify-Finland) | JavaScript
 [Ionic](https://github.com/ionic-team) | C++, CSS, Go, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, Shell, TypeScript, Vue
 [Juniper Networks](https://github.com/Juniper) | C, C++, CSS, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT
@@ -123,6 +124,7 @@ Company | Languages
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
 [Ruuvi Innovations Oy](https://github.com/ruuvi) | C, Clojure, CSS, HTML, Java, JavaScript, KiCad Layout, Python, Swift
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
+[Semmle Inc.](https://github.com/Semmle) | C, Dockerfile, Java, JavaScript, Python
 [SinnerSchrader Deutschland GmbH](https://github.com/sinnerschrader) | C++, CSS, Go, HTML, Java, JavaScript, Kotlin, OCaml, Python, Ruby, Scheme, TypeScript
 [Sky UK Ltd](https://github.com/sky-uk) | ApacheConf, BrightScript, C, C#, CSS, Dockerfile, Go, HTML, Java, JavaScript, Makefile, Objective-C, Objective-C++, Perl, PHP, Python, Ruby, Scala, Shell, Swift, TypeScript, Vim script
 [Solita Oy](https://github.com/Solita) | JavaScript, Clojure, Ruby, CSS, C#, Java, PowerShell, Groovy, Python, PHP
