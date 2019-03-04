@@ -23,6 +23,7 @@ Company | Languages
 [Agari Data, Inc.](https://github.com/agaridata) | C, CoffeeScript, Erlang, Go, HCL, Java, JavaScript, Python, Ruby, Shell
 [Amazon Web Services - Labs](https://github.com/awslabs) | C, C#, C++, CSS, Go, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, NGINX, PHP, PowerShell, Python, Ruby, Rust, Scala, Shell, Swift, TypeScript, XSLT
 [Amazon Web Services](https://github.com/aws) | C, C#, C++, Dockerfile, Go, HTML, Java, JavaScript, Kotlin, PHP, PowerShell, Python, Ruby, Scala, Shell, Swift, TypeScript, VHDL
+[Amazon](https://github.com/amzn) | C, C#, C++, CSS, Java, JavaScript, Kotlin, Objective-C, PHP, Python, Ruby, Rust, Swift, TypeScript
 [Ambientia Oy](https://github.com/ambientiaoy) | HTML, Java, PHP, Ruby, Shell
 [Apple Inc.](https://github.com/Apple) | C, C++, Dockerfile, HTML, JavaScript, LLVM, Python, Swift, Markdown
 [Basecamp](https://github.com/basecamp) | C, CoffeeScript, Go, JavaScript, Lua, Objective-C, Python, Ruby, Shell
@@ -146,3 +147,5 @@ Company | Languages
 [World Wide Web Consortium](https://github.com/w3c) | C, C++, CSS, HTML, Java, JavaScript, Makefile, Perl, PHP, PostScript, Python, Ruby, Scala, Shell, XSLT
 [Yleisradio Oy](https://github.com/Yleisradio) | Ruby, JavaScript, Clojure, Puppet, Java, XSLT, Ansible, Shell, HTML, Makefile, PHP
 [Zalando](https://zalando.github.io/) | Python, Java, Scala, Clojure, JavaScript, Shell, Go, C, C++, Swift, Elm, TypeScript, PLpgSQL, Ceylon, HTML, CSS
+[Zappos IP Inc](https://github.com/Zappos) | Java, Ruby, Markdown
+[ZEIT, Inc.](https://github.com/zeit) | C, Dockerfile, HTML, JavaScript, Lua, Shell, TypeScript
