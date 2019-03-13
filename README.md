@@ -45,6 +45,7 @@ Company | Languages
 [edX Inc.](https://github.com/edx) | CSS, Go, Groovy, Haskell, HTML, Java, JavaScript, Makefile, Markdown, OpenEdge ABL, Python, Roff, Ruby, Shell, Swift
 [Electronic Arts Inc](https://github.com/electronicarts) | C, C++, Go, Java, Python, Ruby
 [Elisa Oyj](https://github.com/elisaoyj) | Go, Python
+[Ericsson](https://github.com/Ericsson) | C, C++, Go, Groff, HTML, Java, JavaScript, Perl, Puppet, Python, Ruby, Shell, Vim script
 [F-Secure Corporation](https://github.com/F-Secure) | C, C#, C++, D, Go, Java, JavaScript, Lua, Objective-C, PHP, Python
 [Facebook - Instagram](https://github.com/instagram) | C, C++, Java, JavaScript, Objective-C, Python, Ruby, Shell
 [Facebook - WhatsApp](https://github.com/whatsapp) | C, C++, Erlang, Objective-C, Python
