@@ -106,6 +106,7 @@ Company | Languages
 [Mozilla Servo](https://github.com/servo) | C, C++, CSS, HCL, HTML, JavaScript, Python, Ruby, Rust, Shell
 [Mozilla Taskcluster Platform](https://github.com/taskcluster) | C, CoffeeScript, Dockerfile, Go, HCL, HTML, Java, JavaScript, Makefile, PowerShell, Python, Ruby, Rust, Shell
 [Mozilla Web Compatibility Team](https://github.com/webcompat) | HTML, JavaScript, Python, XSLT
+[NearForm](https://github.com/nearform) | C, CSS, Dockerfile, Go, HCL, HTML, JavaScript, Makefile, PLpgSQL, Python, Shell, Smarty, TypeScript
 [Netflix, Inc.](https://github.com/Netflix) | Java, Go, JavaScript, C, C++, Scala, Groovy, Clojure, Ruby, Python, C#, NGINX, Docker, Shell, HTML
 [Nitor Creations Ltd](https://github.com/NitorCreations) | Java, JavaScript, Shell, C, Perl, Clojure, Ruby, Ansible, XML
 [Node.js Foundation](https://github.com/nodejs) | C, C++, CSS, Dockerfile, HTML, Java, JavaScript, NGINX, Python, Shell
