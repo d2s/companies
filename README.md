@@ -2,11 +2,9 @@
 
 List of companies using GitHub. Together with a list of programming languages used in their public Git repositories. Key goal is to understand better what technologies different companies have used. This list will also help you to find a lot of Open Source projects from companies.
 
-
 ## Contributing
 
 If you notice a notable company in GitHub with something interesting in their public repositories, please read the [contribution guidelines](https://github.com/d2s/companies/blob/master/CONTRIBUTING.md) and then open a pull request.
-
 
 ## List of companies
 
@@ -42,6 +40,7 @@ Company | Languages
 [Codento Oy](https://github.com/codento) | CSS, JavaScript, Jupyter Notebook, Python, Scala, Vue
 [Conduit Ventures, Inc.](https://github.com/ConduitVC) | JavaScript, OCaml, TypeScript
 [Disney](https://github.com/disney) | CoffeeScript, Dockerfile, Java, JavaScript, Python, Ruby, Shell
+[Digia Plc](https://github.com/digiaonline) | ApacheConf, C#, C++, CoffeeScript, Go, HTML, JavaScript, PHP, Ruby, Shell
 [edX Inc.](https://github.com/edx) | CSS, Go, Groovy, Haskell, HTML, Java, JavaScript, Makefile, Markdown, OpenEdge ABL, Python, Roff, Ruby, Shell, Swift
 [Electronic Arts Inc](https://github.com/electronicarts) | C, C++, Go, Java, Python, Ruby
 [Elisa Oyj](https://github.com/elisaoyj) | Go, Python
