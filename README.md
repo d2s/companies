@@ -22,7 +22,7 @@ Company | Languages
 [Amazon Web Services - Labs](https://github.com/awslabs) | C, C#, C++, CSS, Go, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, NGINX, PHP, PowerShell, Python, Ruby, Rust, Scala, Shell, Swift, TypeScript, XSLT
 [Amazon Web Services](https://github.com/aws) | C, C#, C++, Dockerfile, Go, HTML, Java, JavaScript, Kotlin, PHP, PowerShell, Python, Ruby, Scala, Shell, Swift, TypeScript, VHDL
 [Amazon](https://github.com/amzn) | C, C#, C++, CSS, Java, JavaScript, Kotlin, Objective-C, PHP, Python, Ruby, Rust, Swift, TypeScript
-[Ambientia Oy](https://github.com/ambientiaoy) | HTML, Java, PHP, Ruby, Shell
+[Ambientia Group Oy](https://github.com/ambientiaoy) | HTML, Java, PHP, Ruby, Shell
 [Apple Inc.](https://github.com/Apple) | C, C++, Dockerfile, HTML, JavaScript, LLVM, Python, Swift, Markdown
 [Basecamp](https://github.com/basecamp) | C, CoffeeScript, Go, JavaScript, Lua, Objective-C, Python, Ruby, Shell
 [Bjango](https://github.com/bjango) | C++, HTML, JavaScript, Processing, Shell
@@ -124,7 +124,7 @@ Company | Languages
 [Prisma](https://github.com/prisma) | CSS, Go, Java, JavaScript, Python, Ruby, Scala, TypeScript
 [Reaktor](https://github.com/reaktor) | C, C++, Clojure, CSS, HCL, HTML, Java, JavaScript, Jupyter Notebook, PureBasic, Python, R, Ruby, Scala, Shell, Swift, TypeScript
 [Remedy Entertainment](https://github.com/Remedy-Entertainment) | C++, D
-[Ruuvi Innovations Oy](https://github.com/ruuvi) | C, Clojure, CSS, HTML, Java, JavaScript, KiCad Layout, Python, Swift
+[Ruuvi Innovations Ltd](https://github.com/ruuvi) | C, Clojure, CSS, HTML, Java, JavaScript, KiCad Layout, Python, Swift
 [Samsung Electronics Co.,Ltd.](https://github.com/Samsung) | C++, JavaScript, C, Python, Java, HTML, CSS, R
 [Semmle Inc.](https://github.com/Semmle) | C, Dockerfile, Java, JavaScript, Python
 [SinnerSchrader Deutschland GmbH](https://github.com/sinnerschrader) | C++, CSS, Go, HTML, Java, JavaScript, Kotlin, OCaml, Python, Ruby, Scheme, TypeScript
