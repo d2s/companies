@@ -39,8 +39,8 @@ Company | Languages
 [Code for Europe](https://github.com/codeforeurope) | C, CSS, Elm, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, TypeScript
 [Codento Oy](https://github.com/codento) | CSS, JavaScript, Jupyter Notebook, Python, Scala, Vue
 [Conduit Ventures, Inc.](https://github.com/ConduitVC) | JavaScript, OCaml, TypeScript
-[Disney](https://github.com/disney) | CoffeeScript, Dockerfile, Java, JavaScript, Python, Ruby, Shell
 [Digia Plc](https://github.com/digiaonline) | ApacheConf, C#, C++, CoffeeScript, Go, HTML, JavaScript, PHP, Ruby, Shell
+[Disney](https://github.com/disney) | CoffeeScript, Dockerfile, Java, JavaScript, Python, Ruby, Shell
 [edX Inc.](https://github.com/edx) | CSS, Go, Groovy, Haskell, HTML, Java, JavaScript, Makefile, Markdown, OpenEdge ABL, Python, Roff, Ruby, Shell, Swift
 [Electronic Arts Inc](https://github.com/electronicarts) | C, C++, Go, Java, Python, Ruby
 [Elisa Oyj](https://github.com/elisaoyj) | Go, Python
@@ -72,6 +72,7 @@ Company | Languages
 [Koodiklinikka ry](https://github.com/koodiklinikka) | JavaScript, NGINX, Ruby, Markdown
 [LibPixel Oy](https://github.com/libpixel) | JavaScript, Python, Go, HTML
 [Librato](https://github.com/Librato) | Java, Ruby, Shell, CSS, Python, C, C++, JavaScript, HTML, SaltStack, Go, CoffeeScript
+[Manifold (Arigato Machine Inc.)](https://github.com/manifoldco) | C#, CSS, Elixir, Go, HTML, Java, JavaScript,  Jupyter Notebook, PHP, Python, Ruby, Shell, TypeScript
 [Medium](https://github.com/Medium) | C++, Go, Java, JavaScript, Objective-C, Objective-C++, Markdown, PHP, Python, Shell, XML
 [Meltwater](https://github.com/meltwater) | C, C++, CoffeeScript, CSS, Dockerfile, Elixir, Erlang, Go, HCL, HTML, Java, JavaScript, Kotlin, Lua, Makefile, PHP, Puppet, Python, Ruby, Shell, Smarty
 [Microsoft - Office Developer](https://github.com/OfficeDev) | ASP, Batchfile, C#, CSS, HTML, Java, JavaScript, Objective-C, PHP, PowerShell, Python, Ruby, Swift, TypeScript, Visual Basic
