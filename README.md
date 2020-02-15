@@ -67,6 +67,7 @@ Company | Languages
 [Idean](https://github.com/ideanux) | JavaScript, Objective-C
 [Integrify Ltd](https://github.com/Integrify-Finland) | JavaScript
 [Ionic](https://github.com/ionic-team) | C++, CSS, Go, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, Shell, TypeScript, Vue
+[JGraph Ltd](https://github.com/jgraph) | HTML, Java, JavaScript, PHP, Shell, XSLT
 [Juniper Networks](https://github.com/Juniper) | C, C++, CSS, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT
 [Known, Inc.](https://github.com/idno) | HTML, JavaScript, PHP, Shell
 [Koodiklinikka ry](https://github.com/koodiklinikka) | JavaScript, NGINX, Ruby, Markdown
