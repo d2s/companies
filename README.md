@@ -44,7 +44,9 @@ Company | Languages
 [edX Inc.](https://github.com/edx) | CSS, Go, Groovy, Haskell, HTML, Java, JavaScript, Makefile, Markdown, OpenEdge ABL, Python, Roff, Ruby, Shell, Swift
 [Electronic Arts Inc](https://github.com/electronicarts) | C, C++, Go, Java, Python, Ruby
 [Elisa Oyj](https://github.com/elisaoyj) | Go, Python
+[Epic Games](https://github.com/EpicGames) | C, C++, GLSL
 [Ericsson](https://github.com/Ericsson) | C, C++, Go, Groff, HTML, Java, JavaScript, Perl, Puppet, Python, Ruby, Shell, Vim script
+[Expo](https://github.com/expo) | C, C++, CoffeeScript, Dockerfile, Go, Hack, HTML, Java, JavaScript, Objective-C, Python, Ruby, Rust, Shell, TypeScript
 [F-Secure Corporation](https://github.com/F-Secure) | C, C#, C++, D, Go, Java, JavaScript, Lua, Objective-C, PHP, Python
 [Facebook - Instagram](https://github.com/instagram) | C, C++, Java, JavaScript, Objective-C, Python, Ruby, Shell
 [Facebook - WhatsApp](https://github.com/whatsapp) | C, C++, Erlang, Objective-C, Python
@@ -115,6 +117,7 @@ Company | Languages
 [Nokia](https://github.com/Nokia) | Python, C, C++, Java, Go, CoffeeScript, Scala, SaltStack
 [Nordcloud - SC5](https://github.com/SC5) | C++, CoffeeScript, CSS, HTML, Java, JavaScript, Python, Shell
 [Nordcloud](https://github.com/nordcloud) | Go, HTML, JavaScript, Python
+[Nordic Institute for Interoperability Solutions](https://github.com/nordic-institute) | Dockerfile, Java, Python, Shell
 [Nordic Venture Family - Code Distillery](https://github.com/CodeDistillery) | JavaScript, CSS, Python, CoffeeScript, Dockerfile, HTML
 [NVIDIA Corporation](https://github.com/NVIDIA) | Python, C, C++, Cuda, Go, Jupyter Notebook, HTML, JavaScript, Makefile, Shell, CMake, Lua, OCaml, Java
 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) | C, C#, C++, Python
