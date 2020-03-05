@@ -41,6 +41,7 @@ Company | Languages
 [Conduit Ventures, Inc.](https://github.com/ConduitVC) | JavaScript, OCaml, TypeScript
 [Digia Plc](https://github.com/digiaonline) | ApacheConf, C#, C++, CoffeeScript, Go, HTML, JavaScript, PHP, Ruby, Shell
 [Disney](https://github.com/disney) | CoffeeScript, Dockerfile, Java, JavaScript, Python, Ruby, Shell
+[DuckDuckGo](https://github.com/duckduckgo) | C++, CSS, Dockerfile, HTML, Java, JavaScript, Kotlin, Makefile, Objective-C, Perl, Perl 6, PHP, Python, Shell, Swift
 [edX Inc.](https://github.com/edx) | CSS, Go, Groovy, Haskell, HTML, Java, JavaScript, Makefile, Markdown, OpenEdge ABL, Python, Roff, Ruby, Shell, Swift
 [Electronic Arts Inc](https://github.com/electronicarts) | C, C++, Go, Java, Python, Ruby
 [Elisa Oyj](https://github.com/elisaoyj) | Go, Python
