@@ -1,0 +1,27 @@
+{
+  "name": "companies",
+  "private": true,
+  "version": "1.0.0",
+  "description": "List of companies using GitHub. Together with a list of programming languages used in their public Git repositories. Key goal is to understand better what technologies different companies have used. This list will also help you to find a lot of Open Source projects from companies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "eleventy --input=src --output=dist --serve",
+    "build": "eleventy --input=src --output=dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2s/companies.git"
+  },
+  "keywords": [],
+  "author": "d2s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d2s/companies/issues"
+  },
+  "homepage": "https://github.com/d2s/companies#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}

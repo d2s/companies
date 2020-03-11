@@ -1,0 +1,22 @@
+---
+title: Companies
+description: List of companies that use GitHub
+---
+
+{% set pageDesc = renderData.description or description or metadata.description %}
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ pageDesc }}">
+
+    {% block head %}{% endblock %}
+    <style>{% include "css/base.css" %}</style>
+  </head>
+  <body>
+    {{ content | safe }}
+  </body>
+</html>
