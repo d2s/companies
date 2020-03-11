@@ -1,6 +1,6 @@
 # Companies
 
-List of companies using GitHub. Together with a list of programming languages used in their public Git repositories. Key goal is to understand better what technologies different companies have used. This list will also help you to find a lot of Open Source projects from companies.
+List of companies that use GitHub. Together with a list of programming languages used in their public Git repositories. Key goal is to understand better what technologies different companies have used. This list will also help you to find a lot of Open Source projects from companies.
 
 ## Contributing
 
@@ -150,7 +150,8 @@ Company | Languages
 [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript
 [Unsplash](https://github.com/unsplash) | JavaScript, Ruby, TypeScript, Swift, LookML, PHP
 [Upcloud Ltd](https://github.com/UpCloudLtd) | C#, Go, HTML, Java, JavaScript, PHP, Python, Ruby
-[Veikkaus Oy](https://github.com/VeikkausOy) & [Veikkaus](https://github.com/Veikkaus) | OCaml, Python, Scala
+[Veikkaus](https://github.com/Veikkaus) | OCaml, Python, Scala
+[Veikkaus Oy](https://github.com/VeikkausOy) | Python, Scala
 [Vincit](https://github.com/Vincit) | C, C++. CargoCSS, Clojure, CSS, Dockerfile, HTML, Java, JavaScript, Makefile, Objective-C, PHP, Python, Shell
 [Wix.com](https://github.com/wix) | JavaScript, Scala, Java, Ruby, Objective-C, TypeScript, Shell, Python, PHP, C, C#, CSS, HTML
 [World Wide Web Consortium](https://github.com/w3c) | C, C++, CSS, HTML, Java, JavaScript, Makefile, Perl, PHP, PostScript, Python, Ruby, Scala, Shell, XSLT
