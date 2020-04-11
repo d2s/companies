@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/d2s/companies#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^0.11.0-beta.3"
   }
 }
