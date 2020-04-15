@@ -8,9 +8,11 @@
     "start": "npm run dev",
     "dev": "eleventy --input=src --output=dist --serve",
     "build": "eleventy --input=src --output=dist",
+    "pretest": "npm run lint:css",
     "test": "echo \"Error: no test specified\" && exit 1",
     "posttest": "npm run format",
-    "format": "prettier --loglevel warn --write \"**/*.{js,css,md}\""
+    "format": "prettier --loglevel warn --write \"**/*.{js,css,md}\"",
+    "lint:css": "stylelint '**/*.css'"
   },
   "repository": {
     "type": "git",
@@ -25,6 +27,9 @@
   "homepage": "https://github.com/d2s/companies#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0-beta.3",
-    "prettier": "^2.0.4"
+    "prettier": "^2.0.4",
+    "stylelint": "^13.3.2",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-prettier": "^1.1.2"
   }
 }
