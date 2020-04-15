@@ -1,3 +1,28 @@
-local-notes.md
-node_modules
+# System-specific files
+.DS_Store
+Thumbs.db
+*.log
+
+# Generated files
 dist/
+build/
+
+# Local package management cache
+node_modules/
+
+# Ignore Yarn lockfile because we you npm
+yarn.lock
+
+# Editor-specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore VS Code directory
+.vscode/
+
+# Allow VS Code settings file
+!.vscode/settings.json
+
+# Temporary notes
+local-notes.md
