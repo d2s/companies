@@ -11,7 +11,7 @@
     "pretest": "npm run lint:css",
     "test": "echo \"Error: no test specified\" && exit 1",
     "posttest": "npm run format",
-    "format": "prettier --loglevel warn --write \"**/*.{js,css,md}\"",
+    "format": "prettier --loglevel warn --write '**/*.{js,css,md}'",
     "lint:css": "stylelint '**/*.css'",
     "lint": "eslint . --cache --fix --ext .js,.ts,.tsx"
   },
