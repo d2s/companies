@@ -7,7 +7,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 - Structure of the items:
 
   ```md
-  [Name](URL) | Languages
+  | [Name](URL) | Languages |
   ```
 
 - Include a company name and a link to the GitHub organization using the Markdown format.
@@ -15,7 +15,7 @@ If you notice a notable company in GitHub with something interesting in their pu
   - For example:
 
     ```md
-    [GitHub, Inc.](https://github.com/github) | Language1, Language2, Language3
+    | [GitHub, Inc.](https://github.com/github) | Language1, Language2, Language3 |
     ```
 
 - Include a list of programming languages used on the Git repositories of the company.
