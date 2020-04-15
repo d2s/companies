@@ -1,6 +1,8 @@
 {
   "endOfLine": "lf",
+  "singleQuote": false,
   "trailingComma": "es5",
+  "proseWrap": "never",
   "overrides": [
     {
       "files": "*.md",
