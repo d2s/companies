@@ -12,7 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "posttest": "npm run format",
     "format": "prettier --loglevel warn --write \"**/*.{js,css,md}\"",
-    "lint:css": "stylelint '**/*.css'"
+    "lint:css": "stylelint '**/*.css'",
+    "lint": "eslint . --cache --fix --ext .js,.ts,.tsx"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,9 @@
   "homepage": "https://github.com/d2s/companies#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0-beta.3",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-prettier": "^3.1.3",
     "prettier": "^2.0.4",
     "stylelint": "^13.3.2",
     "stylelint-config-prettier": "^8.0.1",
