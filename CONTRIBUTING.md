@@ -37,8 +37,26 @@ If you notice a notable company in GitHub with something interesting in their pu
 
 ## Example Git commit message
 
+### When adding new companies
+
 ```txt
 docs: add more organizations
 
 - Add more companies to the list of GitHub organizations
+```
+
+### When updating listed languages
+
+```txt
+docs: update listed languages
+
+- Update listed programming languages from GitHub organizations
+```
+
+### When removing outdated items
+
+```txt
+docs: remove non-existent GitHub organizations
+
+- Remove non-existent GitHub organizations
 ```
