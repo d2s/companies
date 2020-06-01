@@ -56,6 +56,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Elisa Oyj](https://github.com/elisaoyj) | Go, Python |
 | [Epic Games](https://github.com/EpicGames) | C, C++, GLSL |
 | [Ericsson](https://github.com/Ericsson) | C, C++, Go, Groff, HTML, Java, JavaScript, Perl, Puppet, Python, Ruby, Shell, Vim script |
+| [Eurostat](https://github.com/eurostat) | Gnuplot, HTML, Java, JavaScript, Jupyter Notebook, Python, R, SAS, Shell, TeX |
 | [Expo](https://github.com/expo) | C, C++, CoffeeScript, Dockerfile, Go, Hack, HTML, Java, JavaScript, Objective-C, Python, Ruby, Rust, Shell, TypeScript |
 | [F-Secure Corporation](https://github.com/F-Secure) | C, C#, C++, D, Go, Java, JavaScript, Lua, Objective-C, PHP, Python |
 | [Facebook - Instagram](https://github.com/instagram) | C, C++, Java, JavaScript, Objective-C, Python, Ruby, Shell |
@@ -159,8 +160,8 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript |
 | [Unsplash](https://github.com/unsplash) | JavaScript, Ruby, TypeScript, Swift, LookML, PHP |
 | [Upcloud Ltd](https://github.com/UpCloudLtd) | C#, Go, HTML, Java, JavaScript, PHP, Python, Ruby |
-| [Veikkaus](https://github.com/Veikkaus) | OCaml, Python, Scala |
 | [Veikkaus Oy](https://github.com/VeikkausOy) | Python, Scala |
+| [Veikkaus](https://github.com/Veikkaus) | OCaml, Python, Scala |
 | [Vincit](https://github.com/Vincit) | C, C++. CargoCSS, Clojure, CSS, Dockerfile, HTML, Java, JavaScript, Makefile, Objective-C, PHP, Python, Shell |
 | [Wix.com](https://github.com/wix) | JavaScript, Scala, Java, Ruby, Objective-C, TypeScript, Shell, Python, PHP, C, C#, CSS, HTML |
 | [World Wide Web Consortium](https://github.com/w3c) | C, C++, CSS, HTML, Java, JavaScript, Makefile, Perl, PHP, PostScript, Python, Ruby, Scala, Shell, XSLT |
