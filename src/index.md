@@ -1,6 +1,6 @@
 ---
 title: Companies
-date: "2020-03-11"
+date: "2020-06-02"
 description: List of companies that use GitHub
 author: Daniel Schildt
 language: en
