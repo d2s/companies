@@ -1,0 +1,53 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "css.trace.server": "off",
+    "gitlens.advanced.telemetry.enabled": false,
+    "html.trace.server": "off",
+    "javascript.validate.enable": false,
+    "json.trace.server": "off",
+    "markdown.trace": "off",
+    "screencastMode.onlyKeyboardShortcuts": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "markdownlint.config": {
+      "default": true,
+      "MD003": {
+        "style": "atx"
+      },
+      "MD012": false,
+      "MD025": false,
+      "MD033": false,
+      "MD041": false
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.fixAll.tslint": true,
+      "source.fixAll.stylelint": true
+    },
+    "[html]": {
+      "editor.formatOnSave": false
+    },
+    "[njk]": {
+      "editor.formatOnSave": false
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+}
