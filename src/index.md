@@ -69,6 +69,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Gofore - Solinor Oy](https://github.com/Solinor) | Shell, Java, Swift, Scala, PHP, TypeScript |
 | [Gofore](https://github.com/gofore) | Clojure, CSS, Go, HTML, Java, JavaScript, Perl, Python, QML, Shell, TypeScript |
 | [Google Analytics](https://github.com/googleanalytics) | C#, HTML, Java, JavaScript, Objective-C, Python |
+| [Google Chrome](https://github.com/GoogleChrome) | CSS, HTML, Java, JavaScript, Python, TypeScript |
 | [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML |
 | [Google Samples](https://github.com/googlesamples) | C#, C++, Go, HTML, Java, JavaScript, Kotlin, Objective-C, PHP, Python, TypeScript |
 | [Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu |
