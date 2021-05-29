@@ -26,6 +26,7 @@
     X-Content-Type-Options = "nosniff"
     Content-Security-Policy = "default-src 'none'; connect-src 'self'; font-src 'self'; frame-src 'self'; img-src 'self'; manifest-src 'self'; media-src 'self'; object-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; worker-src 'self'; form-action 'none'; base-uri 'none'; frame-ancestors 'none'"
     Feature-Policy = "geolocation 'none'; midi 'none'; payment 'none'; camera 'none'; usb 'none'; fullscreen 'self'; magnetometer 'none'; picture-in-picture 'none'; accelerometer 'none'; autoplay 'none'; document-domain 'none'; encrypted-media 'none'; gyroscope 'none'; xr-spatial-tracking 'none'; sync-xhr none; microphone 'none'; display-capture 'none'; battery 'none'; ambient-light-sensor 'none';"
+    Permissions-Policy = "interest-cohort=()"
 
 
 # Redirects
