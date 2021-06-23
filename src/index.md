@@ -61,7 +61,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Facebook - Instagram](https://github.com/instagram) | C, C++, Java, JavaScript, Objective-C, Python, Ruby, Shell |
 | [Facebook - WhatsApp](https://github.com/whatsapp) | C, C++, Erlang, Objective-C, Python |
 | [Facebook](https://github.com/facebook) | C, C++, Cuda, D, Go, Hack, Haskell, HTML, Java, JavaScript, Jupyter Notebook, Lua, Objective-C, Objective-C++, OCaml, PHP, Processing, Python, Ruby, Shell, Swift, TypeScript |
-| [Finnish Meteorological Institute (FMI Open Development)](https://github.com/fmidev) | C, C++, CSS, Dockerfile, HTML, Java, JavaScript, Lua, Makefile, Perl, PHP, Python, Scheme, Shell, SQLPL, TypeScript |
+| [Finnish Meteorological Institute (FMI Open Development)](https://github.com/fmidev) | C, C++, CSS, Dockerfile, Fortran, HTML, Java, JavaScript, Jupyter Notebook, Lua, Makefile, MATLAB, Perl, PHP, PLpgSQL, Python, R, Roff, Scheme, Shell, TypeScript |
 | [Fire Financial Services Limited](https://github.com/firefinancialservices) | Java, JavaScript, PHP, Python |
 | [Futurice](https://github.com/futurice) | JavaScript, Python, Java, Haskell, C#, Scala, Go, Objective-C, Shell, PostScript, Eagle, PureScript, Ansible, C++, Swift, ApacheConf, CoffeeScript, Clojure, Ruby, Ruby, CSS, HTML |
 | [Ghost Foundation](https://github.com/TryGhost) | CoffeeScript, CSS, HTML, Java, JavaScript, PHP, Puppet, Ruby, SaltStack |
