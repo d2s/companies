@@ -30,7 +30,7 @@
     "@11ty/eleventy": "0.12.1",
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.3.0",
-    "eslint-plugin-prettier": "3.4.0",
+    "eslint-plugin-prettier": "3.4.1",
     "prettier": "2.4.1",
     "stylelint": "13.13.1",
     "stylelint-config-prettier": "8.0.2",
