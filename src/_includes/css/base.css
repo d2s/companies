@@ -43,6 +43,10 @@ h6 {
   margin-bottom: 0;
 }
 
+p {
+  padding: 0 1ex;
+}
+
 a {
   color: black;
 }
