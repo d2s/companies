@@ -156,6 +156,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [TeliaSonera](https://github.com/teliasonera) | HTML |
 | [The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, CSS, HTML, Shell, ActionScript, R, TypeScript, Java, Go, Puppet, PHP |
 | [Tieto Healthcare & Welfare Oy (Lifecare API Services)](https://github.com/TietoLifecare) | C# |
+| [Toggl](https://github.com/toggl) | CoffeeScript, Go, JavaScript, Kotlin, Objective-C, Perl, Ruby, Shell, TypeScript |
 | [Twitter, Inc.](https://github.com/Twitter) | Scala, Python, Lua, JavaScript, C, C++, Java, Ruby, PHP, HTML, Shell, Objective-C, R, Modelica, CSS, ApacheConf, JSON, Go |
 | [Unity Technologies Finland](https://github.com/Applifier) | Shell, JavaScript, Go, Objective-C, PHP, C, C++, C#, Ruby, Clojure, Python, CoffeeScript |
 | [Unsplash](https://github.com/unsplash) | JavaScript, Kotlin, LookML, PHP, Ruby, Swift, TypeScript |
