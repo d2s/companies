@@ -47,6 +47,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Code for Europe](https://github.com/codeforeurope) | C, CSS, Elm, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, TypeScript |
 | [Codento Oy](https://github.com/codento) | CSS, JavaScript, Jupyter Notebook, Python, Scala, Vue |
 | [Conduit Ventures, Inc.](https://github.com/ConduitVC) | Dockerfile, Elm, Go, HCL, JavaScript, OCaml, Rust, TypeScript |
+| [Depop](https://github.com/depop) | Scala, Java, Swift, Objective C, Javascript, Python, Kotlin |
 | [Digia Plc](https://github.com/digiaonline) | ApacheConf, C#, C++, CoffeeScript, Go, HTML, JavaScript, PHP, Ruby, Shell |
 | [Disney](https://github.com/disney) | CoffeeScript, Dockerfile, Java, JavaScript, Python, Ruby, Shell |
 | [DuckDuckGo](https://github.com/duckduckgo) | C++, CSS, Dockerfile, HTML, Java, JavaScript, Kotlin, Makefile, Objective-C, Perl, Perl 6, PHP, Python, Shell, Swift |
