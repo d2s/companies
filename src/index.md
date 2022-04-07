@@ -91,9 +91,9 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Manifold (Arigato Machine Inc.)](https://github.com/manifoldco) | C#, CSS, Elixir, Go, HTML, Java, JavaScript, Jupyter Notebook, PHP, Python, Ruby, Shell, TypeScript |
 | [Medium](https://github.com/Medium) | C++, Go, Java, JavaScript, Objective-C, Objective-C++, Markdown, PHP, Python, Shell, XML |
 | [Meltwater](https://github.com/meltwater) | C, C++, CoffeeScript, CSS, Dockerfile, Elixir, Erlang, Go, HCL, HTML, Java, JavaScript, Kotlin, Lua, Makefile, PHP, Puppet, Python, Ruby, Shell, Smarty |
-| [Microsoft - Office Developer](https://github.com/OfficeDev) | ASP, Batchfile, C#, CSS, HTML, Java, JavaScript, Julia, Objective-C, PHP, PowerShell, Python, Ruby, Swift, TypeScript, Visual Basic |
+| [Microsoft - Office Developer](https://github.com/OfficeDev) | ASP, Batchfile, C#, CSS, HTML, Java, JavaScript, Objective-C, PHP, PowerShell, Python, Ruby, Swift, TypeScript, Visual Basic |
 | [Microsoft - Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML |
-| [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Scala, Markdown, Java, Groovy, PHP, Python, R, Ruby, CSS, HTML, GLSL, Objective-C, Logos |
+| [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Julia, Scala, Markdown, Java, Groovy, PHP, Python, R, Ruby, CSS, HTML, GLSL, Objective-C, Logos |
 | [Mozilla - MDN Web Docs](https://github.com/mdn) | CSS, HTML, JavaScript, PHP, Python, Shell, Smarty, WebAssembly |
 | [Mozilla Appmaker](https://github.com/mozilla-appmaker) | CoffeeScript, CSS, HTML, JavaScript, Python |
 | [Mozilla Boot2Gecko / Firefox OS](https://github.com/mozilla-b2g) | C, C++, CSS, HTML, Java, JavaScript, Makefile, Python, Shell |
