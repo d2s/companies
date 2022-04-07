@@ -1,6 +1,6 @@
 ---
 title: Companies
-date: "2021-07-15"
+date: "2022-04-08"
 description: List of companies that use GitHub
 author: Daniel Schildt
 language: en
@@ -72,6 +72,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Google Analytics](https://github.com/googleanalytics) | C#, HTML, Java, JavaScript, Objective-C, Python |
 | [Google Chrome](https://github.com/GoogleChrome) | CSS, HTML, Java, JavaScript, Python, TypeScript |
 | [Google Maps](https://github.com/googlemaps/) | Go, Java, JavaScript, Python, Objective-C, HTML |
+| [Google Research](https://github.com/google-research) | C++, Dart, Haskell, HTML, Java, JavaScript, Julia, Jupyter Notebook, Python, Rust, Shell, Svelte, Swift, TeX, TypeScript |
 | [Google Samples](https://github.com/googlesamples) | C#, C++, Go, HTML, Java, JavaScript, Kotlin, Objective-C, PHP, Python, TypeScript |
 | [Google](https://github.com/google) | Ruby, Python, Java, C, C++, JavaScript, PHP, Common Lisp, Emacs Lisp, Go, Rust, HTML, CSS, Shell, PureBasic, Dart, Makefile, Objective-C, Protocol Buffer, Haskell, R, C#, Clojure, Groovy, VimL, CoffeeScript, Elixir, Lasso, AppleScript, TeX, Groff, OpenSCAD, Scala, Bison, Perl, Processing, Erlang, MATLAB, Gosu |
 | [Haltu Oy](https://github.com/haltu) | CSS, Java, JavaScript, Python, SaltStack, Shell |
