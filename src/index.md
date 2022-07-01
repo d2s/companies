@@ -89,7 +89,6 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java |
 | [IBM](https://github.com/IBM) | C, C#, C++, COBOL, CoffeeScript, CSS, CSS, Dockerfile, Emacs Lisp, Go, Groovy, HCL, HTML, Java, JavaScript, Julia, Jupyter Notebook, NGINX, OCaml, Perl, PHP, Python, R, Roff, Ruby, Scala, Shell, Smarty, SQL PL, Swift, TypeScript |
 | [Idean](https://github.com/ideanux) | JavaScript, Objective-C |
-| [InPost](https://github.com/InPost) | PHP, HTML |
 | [Integrify Ltd](https://github.com/Integrify-Finland) | HCL |
 | [Ionic](https://github.com/ionic-team) | C++, CSS, Go, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, Shell, TypeScript, Vue |
 | [JGraph Ltd](https://github.com/jgraph) | HTML, Java, JavaScript, PHP, Shell, XSLT |
@@ -189,7 +188,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Vodafone](https://github.com/Vodafone) | Java, Go |
 | [Wix.com](https://github.com/wix) | JavaScript, Scala, Java, Ruby, Objective-C, TypeScript, Shell, Python, PHP, C, C#, CSS, HTML |
 | [World Wide Web Consortium](https://github.com/w3c) | C, C++, CSS, HTML, Java, JavaScript, Makefile, Perl, PHP, PostScript, Python, Ruby, Scala, Shell, XSLT |
-| [Xiaomi](https://github.com/XiaoMi) | Java, Python, Go, C++, JavaScript |
+| [Xiaomi](https://github.com/Xiaomi) | Java, Python, Go, C++, JavaScript |
 | [Yleisradio Oy](https://github.com/Yleisradio) | Ruby, JavaScript, Clojure, Puppet, Java, XSLT, Ansible, Shell, HTML, Makefile, PHP |
 | [Zalando](https://zalando.github.io/) | Python, Java, Scala, Clojure, JavaScript, Shell, Go, C, C++, Swift, Elm, TypeScript, PLpgSQL, Ceylon, HTML, CSS |
 | [Zappos IP Inc](https://github.com/Zappos) | Java, Ruby, Markdown |
