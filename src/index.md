@@ -91,6 +91,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Idean](https://github.com/ideanux) | JavaScript, Objective-C |
 | [Integrify Ltd](https://github.com/Integrify-Finland) | HCL |
 | [Ionic](https://github.com/ionic-team) | C++, CSS, Go, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, Shell, TypeScript, Vue |
+| [JetBrains](https://github.com/JetBrains) | Java, Kotlin, C#, JavaScript, C++ |
 | [JGraph Ltd](https://github.com/jgraph) | HTML, Java, JavaScript, PHP, Shell, XSLT |
 | [Juniper Networks](https://github.com/Juniper) | C, C++, CSS, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT |
 | [Known, Inc.](https://github.com/idno) | HTML, JavaScript, PHP, Shell |
