@@ -1,6 +1,6 @@
 ---
 title: Companies
-date: "2022-04-08"
+date: "2022-11-11"
 description: List of companies that use GitHub
 author: Daniel Schildt
 language: en
