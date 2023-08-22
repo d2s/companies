@@ -174,7 +174,6 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Telia OSS](https://github.com/telia-oss) | C#, Dockerfile, Go, HCL, JavaScript, Makefile, Python, Shell |
 | [Telia Sweden](https://github.com/teliasweden) | Go, HTML, JavaScript, Smarty, TypeScript |
 | [Telia](https://github.com/telia) | (no public repositories) |
-| [TeliaSonera](https://github.com/teliasonera) | HTML |
 | [The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, CSS, HTML, Shell, ActionScript, R, TypeScript, Java, Go, Puppet, PHP |
 | [Tieto Healthcare & Welfare Oy (Lifecare API Services)](https://github.com/TietoLifecare) | C# |
 | [Toggl](https://github.com/toggl) | CoffeeScript, Go, JavaScript, Kotlin, Objective-C, Perl, Ruby, Shell, TypeScript |
