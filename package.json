@@ -28,7 +28,7 @@
   "homepage": "https://github.com/d2s/companies#readme",
   "devDependencies": {
     "@11ty/eleventy": "2.0.1",
-    "eslint": "8.57.0",
+    "eslint": "9.5.0",
     "eslint-config-prettier": "9.0.0",
     "eslint-plugin-prettier": "5.0.0",
     "prettier": "3.0.3",
