@@ -104,6 +104,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Medium](https://github.com/Medium) | C++, Go, Java, JavaScript, Objective-C, Objective-C++, Markdown, PHP, Python, Shell, XML |
 | [Mega Limited](https://github.com/meganz) | JavaScript, Objective-C, C++, C, C# |
 | [Meltwater](https://github.com/meltwater) | C, C++, CoffeeScript, CSS, Dockerfile, Elixir, Erlang, Go, HCL, HTML, Java, JavaScript, Kotlin, Lua, Makefile, PHP, Puppet, Python, Ruby, Shell, Smarty |
+| [Mercedes-Benz Group](https://github.com/mercedes-benz/) | Batchfile, C, C#, C++, Go, Groovy, HTML, Java, JavaScript, Jsonnet, Kotlin, Lua, Makefile, Mustache, PHP, PowerShell, Python, Rust, Shell, Smarty, Starlark, Swift, TypeScript, Vue, XSLT |
 | [Microsoft - Office Developer](https://github.com/OfficeDev) | ASP, Batchfile, C#, CSS, HTML, Java, JavaScript, Objective-C, PHP, PowerShell, Python, Ruby, Swift, TypeScript, Visual Basic |
 | [Microsoft - Xamarin](https://github.com/xamarin) | C#, C, C++, F#, JavaScript, Java, Ruby, HTML |
 | [Microsoft](https://github.com/Microsoft) | PowerShell, C, C++, C#, TypeScript, F#, Go, JavaScript, Julia, Scala, Markdown, Java, Groovy, PHP, Python, R, Ruby, CSS, HTML, GLSL, Objective-C, Logos |
