@@ -2,7 +2,7 @@
 # Usage instructions at https://just.systems/man/en/
 
 # Variables
-project := "dot"
+project := "companies"
 GIT_HASH := `git rev-parse --short HEAD`
 
 # Task aliases
